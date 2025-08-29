@@ -29,4 +29,4 @@ cd build
 
 make -j$(nproc)
 
-make DESTDIR=/tmp/choccynix install
+$MAKE install
