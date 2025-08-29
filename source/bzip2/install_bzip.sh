@@ -4,19 +4,25 @@ set -e
 
 rm -rf binutils-*
 
-URL="https://www.sourceware.org/pub/bzip2/"
+URL="https://sourceware.org/pub/bzip2/"
 
-LATEST=$(curl -s $URL \
-  | grep -oP 'bzip2-\d+\.\d+(\.\d+)?\.tar\.xz' \
+LATEST=$(curl -s "$URL" \
+  | grep -o 'bzip2-[0-9]\+\.[0-9]\+\(\.[0-9]\+\)\?\.tar\.gz' \
   | sort -V \
+  | uniq \
   | tail -n1)
 
-curl -L "${URL}${LATEST}" -o "$LATEST"
-STAGE=$(basename "$LATEST" .tar.xz)
-tar -xvf "$LATEST"
+if [ -z "$LATEST" ]; then
+  echo "Falling back to bzip2-latest.tar.gz"
+  LATEST="bzip2-latest.tar.gz"
+fi
 
+curl -fL -o "$LATEST" "${URL}${LATEST}"
+
+STAGE=$(basename "$LATEST" .tar.gz)
+tar -xvzf "$LATEST" 
 cd $STAGE
-patch -Np1 -i ../patches/*.patch
+#patch -Np1 -i ../patches/*.patch # will try without a patch in the meantime
 
 # 64 bit
 
@@ -24,12 +30,12 @@ sed -i 's@\(ln -s -f \)$(PREFIX)/bin/@\1@' Makefile
 
 sed -i "s@(PREFIX)/man@(PREFIX)/share/man@g" Makefile
 
-make -f Makefile-libbz2_so
 make clean
+make -f Makefile-libbz2_so CFLAGS="-fPIC"
+make clean
+make CFLAGS="-fPIC" -j$(nproc)
 
-make -j$(nproc)
-
-make DESTDIR=/tmp/choccynix PREFIX=/usr install
+make -n install PREFIX=/tmp/choccynix/usr
 
 # 32 bit
 
