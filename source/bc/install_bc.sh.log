@@ -1,0 +1,3520 @@
+bc-7.0.3/
+bc-7.0.3/scripts/
+bc-7.0.3/scripts/sqrt_random.bc
+bc-7.0.3/scripts/locale_uninstall.sh
+bc-7.0.3/scripts/sqrt_int_guess.bc
+bc-7.0.3/scripts/safe-install.sh
+bc-7.0.3/scripts/lint.sh
+bc-7.0.3/scripts/locale_install.sh
+bc-7.0.3/scripts/link.sh
+bc-7.0.3/scripts/functions.sh
+bc-7.0.3/scripts/format.sh
+bc-7.0.3/scripts/exec-install.sh
+bc-7.0.3/scripts/sqrt_frac_guess.bc
+bc-7.0.3/scripts/os.c
+bc-7.0.3/scripts/sqrt_random.sh
+bc-7.0.3/scripts/karatsuba.py
+bc-7.0.3/NEWS.md
+bc-7.0.3/configure.sh
+bc-7.0.3/include/
+bc-7.0.3/include/status.h
+bc-7.0.3/include/vm.h
+bc-7.0.3/include/lang.h
+bc-7.0.3/include/library.h
+bc-7.0.3/include/program.h
+bc-7.0.3/include/parse.h
+bc-7.0.3/include/ossfuzz.h
+bc-7.0.3/include/file.h
+bc-7.0.3/include/num.h
+bc-7.0.3/include/vector.h
+bc-7.0.3/include/lex.h
+bc-7.0.3/include/bcl.h
+bc-7.0.3/include/version.h
+bc-7.0.3/include/read.h
+bc-7.0.3/include/dc.h
+bc-7.0.3/include/rand.h
+bc-7.0.3/include/history.h
+bc-7.0.3/include/opt.h
+bc-7.0.3/include/args.h
+bc-7.0.3/include/bc.h
+bc-7.0.3/vs/
+bc-7.0.3/vs/bc.vcxproj.filters
+bc-7.0.3/vs/bcl.vcxproj
+bc-7.0.3/vs/bc.vcxproj
+bc-7.0.3/vs/bcl.vcxproj.filters
+bc-7.0.3/vs/tests/
+bc-7.0.3/vs/tests/tests_bc.bat
+bc-7.0.3/vs/tests/tests_dc.bat
+bc-7.0.3/vs/bcl.sln
+bc-7.0.3/vs/bc.sln
+bc-7.0.3/manuals/
+bc-7.0.3/manuals/bcl.3
+bc-7.0.3/manuals/bcl.3.md
+bc-7.0.3/manuals/dc/
+bc-7.0.3/manuals/dc/A.1.md
+bc-7.0.3/manuals/dc/E.1.md
+bc-7.0.3/manuals/dc/EH.1.md
+bc-7.0.3/manuals/dc/EHN.1.md
+bc-7.0.3/manuals/dc/H.1
+bc-7.0.3/manuals/dc/EH.1
+bc-7.0.3/manuals/dc/E.1
+bc-7.0.3/manuals/dc/HN.1.md
+bc-7.0.3/manuals/dc/EN.1
+bc-7.0.3/manuals/dc/N.1
+bc-7.0.3/manuals/dc/HN.1
+bc-7.0.3/manuals/dc/N.1.md
+bc-7.0.3/manuals/dc/H.1.md
+bc-7.0.3/manuals/dc/EHN.1
+bc-7.0.3/manuals/dc/A.1
+bc-7.0.3/manuals/dc/EN.1.md
+bc-7.0.3/manuals/build.md
+bc-7.0.3/manuals/algorithms.md
+bc-7.0.3/manuals/bc/
+bc-7.0.3/manuals/bc/A.1.md
+bc-7.0.3/manuals/bc/E.1.md
+bc-7.0.3/manuals/bc/EH.1.md
+bc-7.0.3/manuals/bc/EHN.1.md
+bc-7.0.3/manuals/bc/H.1
+bc-7.0.3/manuals/bc/EH.1
+bc-7.0.3/manuals/bc/E.1
+bc-7.0.3/manuals/bc/HN.1.md
+bc-7.0.3/manuals/bc/EN.1
+bc-7.0.3/manuals/bc/N.1
+bc-7.0.3/manuals/bc/HN.1
+bc-7.0.3/manuals/bc/N.1.md
+bc-7.0.3/manuals/bc/H.1.md
+bc-7.0.3/manuals/bc/EHN.1
+bc-7.0.3/manuals/bc/A.1
+bc-7.0.3/manuals/bc/EN.1.md
+bc-7.0.3/gen/
+bc-7.0.3/gen/lib2.bc
+bc-7.0.3/gen/bc_help.txt
+bc-7.0.3/gen/strgen.c
+bc-7.0.3/gen/lib.bc
+bc-7.0.3/gen/strgen.sh
+bc-7.0.3/gen/dc_help.txt
+bc-7.0.3/NOTICE.md
+bc-7.0.3/MEMORY_BUGS.md
+bc-7.0.3/Makefile.in
+bc-7.0.3/configure
+bc-7.0.3/LICENSE.md
+bc-7.0.3/compile_flags.txt
+bc-7.0.3/tests/
+bc-7.0.3/tests/test.sh
+bc-7.0.3/tests/bcl.c
+bc-7.0.3/tests/scripts.sh
+bc-7.0.3/tests/all.sh
+bc-7.0.3/tests/script.sed
+bc-7.0.3/tests/history.sh
+bc-7.0.3/tests/all.txt
+bc-7.0.3/tests/stdin.sh
+bc-7.0.3/tests/extra_required.txt
+bc-7.0.3/tests/errors.sh
+bc-7.0.3/tests/history.py
+bc-7.0.3/tests/error.sh
+bc-7.0.3/tests/dc/
+bc-7.0.3/tests/dc/multiply_results.txt
+bc-7.0.3/tests/dc/negate.txt
+bc-7.0.3/tests/dc/scripts/
+bc-7.0.3/tests/dc/scripts/asciify.txt
+bc-7.0.3/tests/dc/scripts/prime.dc
+bc-7.0.3/tests/dc/scripts/loop.txt
+bc-7.0.3/tests/dc/scripts/all.txt
+bc-7.0.3/tests/dc/scripts/easter.sh
+bc-7.0.3/tests/dc/scripts/array.dc
+bc-7.0.3/tests/dc/scripts/asciify.dc
+bc-7.0.3/tests/dc/scripts/quit.txt
+bc-7.0.3/tests/dc/scripts/weird.dc
+bc-7.0.3/tests/dc/scripts/quit.dc
+bc-7.0.3/tests/dc/scripts/no_clamp.txt
+bc-7.0.3/tests/dc/scripts/stream.dc
+bc-7.0.3/tests/dc/scripts/else.txt
+bc-7.0.3/tests/dc/scripts/factorial.dc
+bc-7.0.3/tests/dc/scripts/loop.dc
+bc-7.0.3/tests/dc/scripts/weird.txt
+bc-7.0.3/tests/dc/scripts/no_clamp.dc
+bc-7.0.3/tests/dc/scripts/else.dc
+bc-7.0.3/tests/dc/scripts/stream.txt
+bc-7.0.3/tests/dc/scripts/array.txt
+bc-7.0.3/tests/dc/scripts/factorial.txt
+bc-7.0.3/tests/dc/divide_results.txt
+bc-7.0.3/tests/dc/read_errors.txt
+bc-7.0.3/tests/dc/errors.txt
+bc-7.0.3/tests/dc/add_results.txt
+bc-7.0.3/tests/dc/engineering_results.txt
+bc-7.0.3/tests/dc/subtract_results.txt
+bc-7.0.3/tests/dc/engineering.txt
+bc-7.0.3/tests/dc/places_results.txt
+bc-7.0.3/tests/dc/trunc_results.txt
+bc-7.0.3/tests/dc/misc1.txt
+bc-7.0.3/tests/dc/stack_len_results.txt
+bc-7.0.3/tests/dc/is_string_results.txt
+bc-7.0.3/tests/dc/strings.txt
+bc-7.0.3/tests/dc/vars_results.txt
+bc-7.0.3/tests/dc/length.txt
+bc-7.0.3/tests/dc/is_string.txt
+bc-7.0.3/tests/dc/abs_results.txt
+bc-7.0.3/tests/dc/misc_results.txt
+bc-7.0.3/tests/dc/negate_results.txt
+bc-7.0.3/tests/dc/sqrt.txt
+bc-7.0.3/tests/dc/all.txt
+bc-7.0.3/tests/dc/stdin_results.txt
+bc-7.0.3/tests/dc/length_results.txt
+bc-7.0.3/tests/dc/subtract.txt
+bc-7.0.3/tests/dc/multiply.txt
+bc-7.0.3/tests/dc/abs.txt
+bc-7.0.3/tests/dc/stdin.txt
+bc-7.0.3/tests/dc/is_number_results.txt
+bc-7.0.3/tests/dc/divmod_results.txt
+bc-7.0.3/tests/dc/vars.txt
+bc-7.0.3/tests/dc/exec_stack_len_results.txt
+bc-7.0.3/tests/dc/power_results.txt
+bc-7.0.3/tests/dc/rand_results.txt
+bc-7.0.3/tests/dc/shift.txt
+bc-7.0.3/tests/dc/decimal.txt
+bc-7.0.3/tests/dc/errors/
+bc-7.0.3/tests/dc/errors/26.txt
+bc-7.0.3/tests/dc/errors/25.txt
+bc-7.0.3/tests/dc/errors/27.txt
+bc-7.0.3/tests/dc/errors/16.txt
+bc-7.0.3/tests/dc/errors/01.txt
+bc-7.0.3/tests/dc/errors/24.txt
+bc-7.0.3/tests/dc/errors/05.txt
+bc-7.0.3/tests/dc/errors/06.txt
+bc-7.0.3/tests/dc/errors/22.txt
+bc-7.0.3/tests/dc/errors/13.txt
+bc-7.0.3/tests/dc/errors/03.txt
+bc-7.0.3/tests/dc/errors/11.txt
+bc-7.0.3/tests/dc/errors/15.txt
+bc-7.0.3/tests/dc/errors/21.txt
+bc-7.0.3/tests/dc/errors/08.txt
+bc-7.0.3/tests/dc/errors/32.txt
+bc-7.0.3/tests/dc/errors/18.txt
+bc-7.0.3/tests/dc/errors/30.txt
+bc-7.0.3/tests/dc/errors/17.txt
+bc-7.0.3/tests/dc/errors/33.txt
+bc-7.0.3/tests/dc/errors/12.txt
+bc-7.0.3/tests/dc/errors/28.txt
+bc-7.0.3/tests/dc/errors/23.txt
+bc-7.0.3/tests/dc/errors/31.txt
+bc-7.0.3/tests/dc/errors/19.txt
+bc-7.0.3/tests/dc/errors/02.txt
+bc-7.0.3/tests/dc/errors/07.txt
+bc-7.0.3/tests/dc/errors/04.txt
+bc-7.0.3/tests/dc/errors/20.txt
+bc-7.0.3/tests/dc/errors/14.txt
+bc-7.0.3/tests/dc/errors/10.txt
+bc-7.0.3/tests/dc/errors/09.txt
+bc-7.0.3/tests/dc/errors/29.txt
+bc-7.0.3/tests/dc/strings_results.txt
+bc-7.0.3/tests/dc/sqrt_results.txt
+bc-7.0.3/tests/dc/exec_stack_len.txt
+bc-7.0.3/tests/dc/misc1_results.txt
+bc-7.0.3/tests/dc/places.txt
+bc-7.0.3/tests/dc/read_results.txt
+bc-7.0.3/tests/dc/modulus.txt
+bc-7.0.3/tests/dc/modexp_results.txt
+bc-7.0.3/tests/dc/is_number.txt
+bc-7.0.3/tests/dc/read.txt
+bc-7.0.3/tests/dc/modulus_results.txt
+bc-7.0.3/tests/dc/divmod.txt
+bc-7.0.3/tests/dc/divide.txt
+bc-7.0.3/tests/dc/rand.txt
+bc-7.0.3/tests/dc/power.txt
+bc-7.0.3/tests/dc/scientific.txt
+bc-7.0.3/tests/dc/scientific_results.txt
+bc-7.0.3/tests/dc/decimal_results.txt
+bc-7.0.3/tests/dc/modexp.txt
+bc-7.0.3/tests/dc/boolean_results.txt
+bc-7.0.3/tests/dc/trunc.txt
+bc-7.0.3/tests/dc/misc.txt
+bc-7.0.3/tests/dc/add.txt
+bc-7.0.3/tests/dc/stack_len.txt
+bc-7.0.3/tests/dc/boolean.txt
+bc-7.0.3/tests/dc/shift_results.txt
+bc-7.0.3/tests/other.sh
+bc-7.0.3/tests/read.sh
+bc-7.0.3/tests/script.sh
+bc-7.0.3/tests/bc/
+bc-7.0.3/tests/bc/multiply_results.txt
+bc-7.0.3/tests/bc/scripts/
+bc-7.0.3/tests/bc/scripts/bessel.bc
+bc-7.0.3/tests/bc/scripts/screen.txt
+bc-7.0.3/tests/bc/scripts/i2rand.txt
+bc-7.0.3/tests/bc/scripts/references.bc
+bc-7.0.3/tests/bc/scripts/array2.txt
+bc-7.0.3/tests/bc/scripts/screen.bc
+bc-7.0.3/tests/bc/scripts/globals.bc
+bc-7.0.3/tests/bc/scripts/atan.txt
+bc-7.0.3/tests/bc/scripts/add.bc
+bc-7.0.3/tests/bc/scripts/ifs.bc
+bc-7.0.3/tests/bc/scripts/ifs.txt
+bc-7.0.3/tests/bc/scripts/atan.bc
+bc-7.0.3/tests/bc/scripts/strings2.bc
+bc-7.0.3/tests/bc/scripts/root.txt
+bc-7.0.3/tests/bc/scripts/all.txt
+bc-7.0.3/tests/bc/scripts/i2rand.bc
+bc-7.0.3/tests/bc/scripts/subtract.bc
+bc-7.0.3/tests/bc/scripts/cbrt.txt
+bc-7.0.3/tests/bc/scripts/print2.txt
+bc-7.0.3/tests/bc/scripts/afl1.txt
+bc-7.0.3/tests/bc/scripts/multiply.bc
+bc-7.0.3/tests/bc/scripts/array.bc
+bc-7.0.3/tests/bc/scripts/array2.bc
+bc-7.0.3/tests/bc/scripts/root.bc
+bc-7.0.3/tests/bc/scripts/references.txt
+bc-7.0.3/tests/bc/scripts/functions.bc
+bc-7.0.3/tests/bc/scripts/divide.bc
+bc-7.0.3/tests/bc/scripts/print2.bc
+bc-7.0.3/tests/bc/scripts/globals.txt
+bc-7.0.3/tests/bc/scripts/len.bc
+bc-7.0.3/tests/bc/scripts/functions.txt
+bc-7.0.3/tests/bc/scripts/len.txt
+bc-7.0.3/tests/bc/scripts/ifs2.txt
+bc-7.0.3/tests/bc/scripts/rand.bc
+bc-7.0.3/tests/bc/scripts/rand.txt
+bc-7.0.3/tests/bc/scripts/ifs2.bc
+bc-7.0.3/tests/bc/scripts/parse.bc
+bc-7.0.3/tests/bc/scripts/array.txt
+bc-7.0.3/tests/bc/scripts/afl1.bc
+bc-7.0.3/tests/bc/scripts/print.bc
+bc-7.0.3/tests/bc/line_by_line1.txt
+bc-7.0.3/tests/bc/divide_results.txt
+bc-7.0.3/tests/bc/void.txt
+bc-7.0.3/tests/bc/read_errors.txt
+bc-7.0.3/tests/bc/asciify_array_results.txt
+bc-7.0.3/tests/bc/errors.txt
+bc-7.0.3/tests/bc/add_results.txt
+bc-7.0.3/tests/bc/arrays_results.txt
+bc-7.0.3/tests/bc/fib.txt
+bc-7.0.3/tests/bc/arrays.txt
+bc-7.0.3/tests/bc/log_results.txt
+bc-7.0.3/tests/bc/assignments_results.txt
+bc-7.0.3/tests/bc/engineering_results.txt
+bc-7.0.3/tests/bc/subtract_results.txt
+bc-7.0.3/tests/bc/engineering.txt
+bc-7.0.3/tests/bc/line_loop_quit1_results.txt
+bc-7.0.3/tests/bc/misc5_results.txt
+bc-7.0.3/tests/bc/exponent.txt
+bc-7.0.3/tests/bc/places_results.txt
+bc-7.0.3/tests/bc/trunc_results.txt
+bc-7.0.3/tests/bc/line_by_line2_results.txt
+bc-7.0.3/tests/bc/misc1.txt
+bc-7.0.3/tests/bc/is_string_results.txt
+bc-7.0.3/tests/bc/misc2_results.txt
+bc-7.0.3/tests/bc/strings.txt
+bc-7.0.3/tests/bc/vars_results.txt
+bc-7.0.3/tests/bc/line_by_line1_results.txt
+bc-7.0.3/tests/bc/length.txt
+bc-7.0.3/tests/bc/is_string.txt
+bc-7.0.3/tests/bc/abs_results.txt
+bc-7.0.3/tests/bc/misc_results.txt
+bc-7.0.3/tests/bc/pi.txt
+bc-7.0.3/tests/bc/sqrt.txt
+bc-7.0.3/tests/bc/all.txt
+bc-7.0.3/tests/bc/stdin_results.txt
+bc-7.0.3/tests/bc/assignments.txt
+bc-7.0.3/tests/bc/length_results.txt
+bc-7.0.3/tests/bc/subtract.txt
+bc-7.0.3/tests/bc/cosine.txt
+bc-7.0.3/tests/bc/misc3_results.txt
+bc-7.0.3/tests/bc/multiply.txt
+bc-7.0.3/tests/bc/misc5.txt
+bc-7.0.3/tests/bc/abs.txt
+bc-7.0.3/tests/bc/rand_limits.txt
+bc-7.0.3/tests/bc/stdin.txt
+bc-7.0.3/tests/bc/print2.txt
+bc-7.0.3/tests/bc/is_number_results.txt
+bc-7.0.3/tests/bc/divmod_results.txt
+bc-7.0.3/tests/bc/vars.txt
+bc-7.0.3/tests/bc/misc4_results.txt
+bc-7.0.3/tests/bc/leadingzero_results.txt
+bc-7.0.3/tests/bc/recursive_arrays.txt
+bc-7.0.3/tests/bc/asciify_array.txt
+bc-7.0.3/tests/bc/lib2_results.txt
+bc-7.0.3/tests/bc/log.txt
+bc-7.0.3/tests/bc/misc6_results.txt
+bc-7.0.3/tests/bc/lib2.txt
+bc-7.0.3/tests/bc/arctangent.txt
+bc-7.0.3/tests/bc/fib_results.txt
+bc-7.0.3/tests/bc/misc8_results.txt
+bc-7.0.3/tests/bc/power_results.txt
+bc-7.0.3/tests/bc/bitfuncs_results.txt
+bc-7.0.3/tests/bc/arctangent_results.txt
+bc-7.0.3/tests/bc/misc2.txt
+bc-7.0.3/tests/bc/sine_results.txt
+bc-7.0.3/tests/bc/misc6.txt
+bc-7.0.3/tests/bc/scale.txt
+bc-7.0.3/tests/bc/pi_results.txt
+bc-7.0.3/tests/bc/rand_results.txt
+bc-7.0.3/tests/bc/shift.txt
+bc-7.0.3/tests/bc/scale_results.txt
+bc-7.0.3/tests/bc/functions_results.txt
+bc-7.0.3/tests/bc/decimal.txt
+bc-7.0.3/tests/bc/errors/
+bc-7.0.3/tests/bc/errors/26.txt
+bc-7.0.3/tests/bc/errors/25.txt
+bc-7.0.3/tests/bc/errors/27.txt
+bc-7.0.3/tests/bc/errors/16.txt
+bc-7.0.3/tests/bc/errors/01.txt
+bc-7.0.3/tests/bc/errors/24.txt
+bc-7.0.3/tests/bc/errors/05.txt
+bc-7.0.3/tests/bc/errors/06.txt
+bc-7.0.3/tests/bc/errors/37.txt
+bc-7.0.3/tests/bc/errors/22.txt
+bc-7.0.3/tests/bc/errors/13.txt
+bc-7.0.3/tests/bc/errors/03.txt
+bc-7.0.3/tests/bc/errors/11.txt
+bc-7.0.3/tests/bc/errors/15.txt
+bc-7.0.3/tests/bc/errors/38.txt
+bc-7.0.3/tests/bc/errors/21.txt
+bc-7.0.3/tests/bc/errors/08.txt
+bc-7.0.3/tests/bc/errors/32.txt
+bc-7.0.3/tests/bc/errors/18.txt
+bc-7.0.3/tests/bc/errors/35.txt
+bc-7.0.3/tests/bc/errors/30.txt
+bc-7.0.3/tests/bc/errors/17.txt
+bc-7.0.3/tests/bc/errors/33.txt
+bc-7.0.3/tests/bc/errors/12.txt
+bc-7.0.3/tests/bc/errors/28.txt
+bc-7.0.3/tests/bc/errors/23.txt
+bc-7.0.3/tests/bc/errors/31.txt
+bc-7.0.3/tests/bc/errors/19.txt
+bc-7.0.3/tests/bc/errors/02.txt
+bc-7.0.3/tests/bc/errors/07.txt
+bc-7.0.3/tests/bc/errors/34.txt
+bc-7.0.3/tests/bc/errors/04.txt
+bc-7.0.3/tests/bc/errors/36.txt
+bc-7.0.3/tests/bc/errors/20.txt
+bc-7.0.3/tests/bc/errors/14.txt
+bc-7.0.3/tests/bc/errors/10.txt
+bc-7.0.3/tests/bc/errors/09.txt
+bc-7.0.3/tests/bc/errors/29.txt
+bc-7.0.3/tests/bc/strings_results.txt
+bc-7.0.3/tests/bc/sqrt_results.txt
+bc-7.0.3/tests/bc/stdin1_results.txt
+bc-7.0.3/tests/bc/misc1_results.txt
+bc-7.0.3/tests/bc/misc4.txt
+bc-7.0.3/tests/bc/places.txt
+bc-7.0.3/tests/bc/rand_limits_results.txt
+bc-7.0.3/tests/bc/line_loop_quit2.txt
+bc-7.0.3/tests/bc/timeconst.sh
+bc-7.0.3/tests/bc/read_results.txt
+bc-7.0.3/tests/bc/misc8.txt
+bc-7.0.3/tests/bc/letters_results.txt
+bc-7.0.3/tests/bc/sine.txt
+bc-7.0.3/tests/bc/cosine_results.txt
+bc-7.0.3/tests/bc/modulus.txt
+bc-7.0.3/tests/bc/comp_results.txt
+bc-7.0.3/tests/bc/globals.txt
+bc-7.0.3/tests/bc/exponent_results.txt
+bc-7.0.3/tests/bc/functions.txt
+bc-7.0.3/tests/bc/modexp_results.txt
+bc-7.0.3/tests/bc/stdin2.txt
+bc-7.0.3/tests/bc/stdin1.txt
+bc-7.0.3/tests/bc/is_number.txt
+bc-7.0.3/tests/bc/comp.txt
+bc-7.0.3/tests/bc/read.txt
+bc-7.0.3/tests/bc/modulus_results.txt
+bc-7.0.3/tests/bc/bitfuncs.txt
+bc-7.0.3/tests/bc/divmod.txt
+bc-7.0.3/tests/bc/misc7_results.txt
+bc-7.0.3/tests/bc/divide.txt
+bc-7.0.3/tests/bc/print2_results.txt
+bc-7.0.3/tests/bc/rand.txt
+bc-7.0.3/tests/bc/power.txt
+bc-7.0.3/tests/bc/misc7.txt
+bc-7.0.3/tests/bc/line_loop_quit2_results.txt
+bc-7.0.3/tests/bc/scientific.txt
+bc-7.0.3/tests/bc/scientific_results.txt
+bc-7.0.3/tests/bc/line_loop_quit1.txt
+bc-7.0.3/tests/bc/posix_errors.txt
+bc-7.0.3/tests/bc/decimal_results.txt
+bc-7.0.3/tests/bc/modexp.txt
+bc-7.0.3/tests/bc/boolean_results.txt
+bc-7.0.3/tests/bc/trunc.txt
+bc-7.0.3/tests/bc/misc.txt
+bc-7.0.3/tests/bc/add.txt
+bc-7.0.3/tests/bc/globals_results.txt
+bc-7.0.3/tests/bc/recursive_arrays_results.txt
+bc-7.0.3/tests/bc/boolean.txt
+bc-7.0.3/tests/bc/stdin2_results.txt
+bc-7.0.3/tests/bc/leadingzero.txt
+bc-7.0.3/tests/bc/letters.txt
+bc-7.0.3/tests/bc/void_results.txt
+bc-7.0.3/tests/bc/misc3.txt
+bc-7.0.3/tests/bc/shift_results.txt
+bc-7.0.3/tests/bc/line_by_line2.txt
+bc-7.0.3/bcl.pc.in
+bc-7.0.3/locales/
+bc-7.0.3/locales/nl_NL.UTF-8.msg
+bc-7.0.3/locales/en_CA.US-ASCII.msg
+bc-7.0.3/locales/en_US.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.ISO8859-15.msg
+bc-7.0.3/locales/en_CA.utf8.msg
+bc-7.0.3/locales/fr_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.utf8.msg
+bc-7.0.3/locales/ja_JP.eucJP.msg
+bc-7.0.3/locales/en_AU.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.utf8.msg
+bc-7.0.3/locales/en_GB.US-ASCII.msg
+bc-7.0.3/locales/fr_BE.utf8.msg
+bc-7.0.3/locales/zh_CN.UTF-8.msg
+bc-7.0.3/locales/en_NZ.US-ASCII.msg
+bc-7.0.3/locales/fr_FR.ISO8859-15.msg
+bc-7.0.3/locales/fr_CA.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB2312.msg
+bc-7.0.3/locales/ru_RU.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.utf8.msg
+bc-7.0.3/locales/en_AU.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB18030.msg
+bc-7.0.3/locales/pt_PT.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-15.msg
+bc-7.0.3/locales/ru_RU.CP866.msg
+bc-7.0.3/locales/pl_PL.ISO8859-2.msg
+bc-7.0.3/locales/en_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_NZ.UTF-8.msg
+bc-7.0.3/locales/es_ES.ISO8859-1.msg
+bc-7.0.3/locales/ru_RU.ISO8859-5.msg
+bc-7.0.3/locales/pl_PL.utf8.msg
+bc-7.0.3/locales/pt_PT.utf8.msg
+bc-7.0.3/locales/pt_BR.UTF-8.msg
+bc-7.0.3/locales/pt_PT.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_GB.UTF-8.msg
+bc-7.0.3/locales/ru_RU.utf8.msg
+bc-7.0.3/locales/ja_JP.utf8.msg
+bc-7.0.3/locales/en_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-15.msg
+bc-7.0.3/locales/pt_PT.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GBK.msg
+bc-7.0.3/locales/de_DE.UTF-8.msg
+bc-7.0.3/locales/fr_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.utf8.msg
+bc-7.0.3/locales/pt_BR.utf8.msg
+bc-7.0.3/locales/de_DE.utf8.msg
+bc-7.0.3/locales/fr_CA.utf8.msg
+bc-7.0.3/locales/es_ES.UTF-8.msg
+bc-7.0.3/locales/en_CA.UTF-8.msg
+bc-7.0.3/locales/en_US.msg
+bc-7.0.3/locales/zh_CN.eucCN.msg
+bc-7.0.3/locales/fr_CH.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-1.msg
+bc-7.0.3/locales/fr_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_US.UTF-8.msg
+bc-7.0.3/locales/en_US.US-ASCII.msg
+bc-7.0.3/locales/en_IE.US_ASCII.msg
+bc-7.0.3/locales/nl_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_BE.ISO8859-1.msg
+bc-7.0.3/locales/nl_NL.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.utf8.msg
+bc-7.0.3/locales/zh_CN.utf8.msg
+bc-7.0.3/locales/ru_RU.KOI8-R.msg
+bc-7.0.3/locales/fr_BE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.utf8.msg
+bc-7.0.3/locales/en_AU.utf8.msg
+bc-7.0.3/locales/nl_NL.utf8.msg
+bc-7.0.3/locales/ja_JP.UTF-8.msg
+bc-7.0.3/locales/ru_RU.CP1251.msg
+bc-7.0.3/locales/fr_FR.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.US-ASCII.msg
+bc-7.0.3/locales/fr_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_US.US_ASCII.msg
+bc-7.0.3/locales/de_CH.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-1.msg
+bc-7.0.3/locales/de_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_NZ.utf8.msg
+bc-7.0.3/locales/fr_BE.UTF-8.msg
+bc-7.0.3/locales/pl_PL.UTF-8.msg
+bc-7.0.3/locales/fr_CH.utf8.msg
+bc-7.0.3/locales/fr_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_NL.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.utf8.msg
+bc-7.0.3/src/
+bc-7.0.3/src/rand.c
+bc-7.0.3/src/lang.c
+bc-7.0.3/src/bc_parse.c
+bc-7.0.3/src/num.c
+bc-7.0.3/src/vector.c
+bc-7.0.3/src/main.c
+bc-7.0.3/src/opt.c
+bc-7.0.3/src/dc_fuzzer.c
+bc-7.0.3/src/data.c
+bc-7.0.3/src/vm.c
+bc-7.0.3/src/history.c
+bc-7.0.3/src/read.c
+bc-7.0.3/src/bc_lex.c
+bc-7.0.3/src/dc.c
+bc-7.0.3/src/program.c
+bc-7.0.3/src/parse.c
+bc-7.0.3/src/dc_parse.c
+bc-7.0.3/src/library.c
+bc-7.0.3/src/bc_fuzzer.c
+bc-7.0.3/src/args.c
+bc-7.0.3/src/lex.c
+bc-7.0.3/src/dc_lex.c
+bc-7.0.3/src/bc.c
+bc-7.0.3/src/file.c
+bc-7.0.3/README.md
+Testing NLS...
+NLS works.
+
+Testing gencat...
+gencat works.
+
+Testing history...
+History does not work.
+Disabling history...
+
+Testing for FreeBSD...
+Not on FreeBSD. Using _POSIX_C_SOURCE and _XOPEN_SOURCE.
+
+Testing for macOS...
+Not on macOS.
+
+Testing for OpenBSD...
+Not on OpenBSD.
+
+unneeded: bc_fuzzer.c dc_fuzzer.c history.c library.c
+Version: 7.0.3
+Building bc
+Building dc
+
+BC_ENABLE_LIBRARY=0
+
+BC_ENABLE_HISTORY=0
+BC_ENABLE_EXTRA_MATH=1
+BC_ENABLE_NLS=1
+
+BC_ENABLE_AFL=0
+
+BC_NUM_KARATSUBA_LEN=32
+
+CC=gcc
+CFLAGS=-O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0
+HOSTCC=gcc
+HOSTCFLAGS= -std=c99
+CPPFLAGS=-DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700
+LDFLAGS=-s 
+PREFIX=/usr
+BINDIR=/usr/bin
+INCLUDEDIR=/usr/include
+LIBDIR=/usr/lib
+DATAROOTDIR=/usr/share
+DATADIR=/usr/share
+MANDIR=/usr/share/man
+MAN1DIR=/usr/share/man/man1
+MAN3DIR=/usr/share/man/man3
+NLSPATH=/usr/share/locale/%L/%N
+PC_PATH=
+EXECSUFFIX=
+EXECPREFIX=
+DESTDIR=
+LONG_BIT=
+GEN_HOST=1
+GEN_EMU=
+
+Setting Defaults
+================
+bc.banner=0
+bc.sigint_reset=1
+dc.sigint_reset=1
+bc.tty_mode=1
+dc.tty_mode=0
+bc.prompt=1
+dc.prompt=0
+bc.expr_exit=1
+dc.expr_exit=1
+bc.digit_clamp=0
+dc.digit_clamp=0
+mkdir -p bin
+gcc -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -I./include/ -std=c99 -o ./gen/strgen ./gen/strgen.c
+./gen/strgen ./gen/dc_help.txt ./gen/dc_help.c 0 dc_help "" DC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/dc_help.o -c gen/dc_help.c
+./gen/strgen ./gen/bc_help.txt ./gen/bc_help.c 0 bc_help "" BC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/bc_help.o -c gen/bc_help.c
+./gen/strgen ./gen/lib.bc ./gen/lib.c 0 bc_lib bc_lib_name BC_ENABLED 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/lib.o -c gen/lib.c
+./gen/strgen ./gen/lib2.bc ./gen/lib2.c 0 bc_lib2 bc_lib2_name "BC_ENABLED && BC_ENABLE_EXTRA_MATH" 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/lib2.o -c gen/lib2.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/args.o -c ./src/args.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/bc.o -c ./src/bc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/bc_lex.o -c ./src/bc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/bc_parse.o -c ./src/bc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/data.o -c ./src/data.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/dc.o -c ./src/dc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/dc_lex.o -c ./src/dc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/dc_parse.o -c ./src/dc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/file.o -c ./src/file.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/lang.o -c ./src/lang.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/lex.o -c ./src/lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/main.o -c ./src/main.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/num.o -c ./src/num.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/opt.o -c ./src/opt.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/parse.o -c ./src/parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/program.o -c ./src/program.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/rand.o -c ./src/rand.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/read.o -c ./src/read.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/vector.o -c ./src/vector.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/vm.o -c ./src/vm.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 ./gen/dc_help.o ./gen/bc_help.o ./gen/lib.o ./gen/lib2.o src/args.o src/bc.o src/bc_lex.o src/bc_parse.o src/data.o src/dc.o src/dc_lex.o src/dc_parse.o src/file.o src/lang.o src/lex.o src/main.o src/num.o src/opt.o src/parse.o src/program.o src/rand.o src/read.o src/vector.o src/vm.o -s  -o bin/bc
+./scripts/link.sh bin dc
+./scripts/locale_install.sh /usr/share/locale/%L/%N bc /tmp/choccynix
+Installing de_DE.UTF-8...done
+Installing es_ES.UTF-8...done
+Installing fr_FR.UTF-8...done
+Installing ja_JP.UTF-8...done
+Installing nl_NL.UTF-8...done
+Installing pl_PL.UTF-8...done
+Installing pt_PT.UTF-8...done
+Installing ru_RU.CP1251...done
+Installing ru_RU.KOI8-R...done
+Installing ru_RU.UTF-8...done
+Installing zh_CN.GB18030...done
+Installing zh_CN.GB2312...done
+Installing zh_CN.GBK...done
+Installing zh_CN.UTF-8...done
+Linking de_AT.UTF-8...done
+Linking de_CH.UTF-8...done
+Linking en_AU.UTF-8...done
+Linking en_CA.UTF-8...done
+Linking en_GB.UTF-8...done
+Linking en_IE.UTF-8...done
+Linking en_NZ.UTF-8...done
+Linking en_US.UTF-8...done
+Linking fr_BE.UTF-8...done
+Linking fr_CA.UTF-8...done
+Linking fr_CH.UTF-8...done
+Linking pt_BR.UTF-8...done
+./scripts/safe-install.sh -Dm644 manuals/bc.1 /tmp/choccynix/usr/share/man/man1/bc.1
+./scripts/safe-install.sh -Dm644 manuals/dc.1 /tmp/choccynix/usr/share/man/man1/dc.1
+./scripts/exec-install.sh /tmp/choccynix/usr/bin "" "/home/liv/Projects/ChoccyNix/autotar/bc-7.0.3/bin"
+bc-7.0.3/
+bc-7.0.3/scripts/
+bc-7.0.3/scripts/sqrt_random.bc
+bc-7.0.3/scripts/locale_uninstall.sh
+bc-7.0.3/scripts/sqrt_int_guess.bc
+bc-7.0.3/scripts/safe-install.sh
+bc-7.0.3/scripts/lint.sh
+bc-7.0.3/scripts/locale_install.sh
+bc-7.0.3/scripts/link.sh
+bc-7.0.3/scripts/functions.sh
+bc-7.0.3/scripts/format.sh
+bc-7.0.3/scripts/exec-install.sh
+bc-7.0.3/scripts/sqrt_frac_guess.bc
+bc-7.0.3/scripts/os.c
+bc-7.0.3/scripts/sqrt_random.sh
+bc-7.0.3/scripts/karatsuba.py
+bc-7.0.3/NEWS.md
+bc-7.0.3/configure.sh
+bc-7.0.3/include/
+bc-7.0.3/include/status.h
+bc-7.0.3/include/vm.h
+bc-7.0.3/include/lang.h
+bc-7.0.3/include/library.h
+bc-7.0.3/include/program.h
+bc-7.0.3/include/parse.h
+bc-7.0.3/include/ossfuzz.h
+bc-7.0.3/include/file.h
+bc-7.0.3/include/num.h
+bc-7.0.3/include/vector.h
+bc-7.0.3/include/lex.h
+bc-7.0.3/include/bcl.h
+bc-7.0.3/include/version.h
+bc-7.0.3/include/read.h
+bc-7.0.3/include/dc.h
+bc-7.0.3/include/rand.h
+bc-7.0.3/include/history.h
+bc-7.0.3/include/opt.h
+bc-7.0.3/include/args.h
+bc-7.0.3/include/bc.h
+bc-7.0.3/vs/
+bc-7.0.3/vs/bc.vcxproj.filters
+bc-7.0.3/vs/bcl.vcxproj
+bc-7.0.3/vs/bc.vcxproj
+bc-7.0.3/vs/bcl.vcxproj.filters
+bc-7.0.3/vs/tests/
+bc-7.0.3/vs/tests/tests_bc.bat
+bc-7.0.3/vs/tests/tests_dc.bat
+bc-7.0.3/vs/bcl.sln
+bc-7.0.3/vs/bc.sln
+bc-7.0.3/manuals/
+bc-7.0.3/manuals/bcl.3
+bc-7.0.3/manuals/bcl.3.md
+bc-7.0.3/manuals/dc/
+bc-7.0.3/manuals/dc/A.1.md
+bc-7.0.3/manuals/dc/E.1.md
+bc-7.0.3/manuals/dc/EH.1.md
+bc-7.0.3/manuals/dc/EHN.1.md
+bc-7.0.3/manuals/dc/H.1
+bc-7.0.3/manuals/dc/EH.1
+bc-7.0.3/manuals/dc/E.1
+bc-7.0.3/manuals/dc/HN.1.md
+bc-7.0.3/manuals/dc/EN.1
+bc-7.0.3/manuals/dc/N.1
+bc-7.0.3/manuals/dc/HN.1
+bc-7.0.3/manuals/dc/N.1.md
+bc-7.0.3/manuals/dc/H.1.md
+bc-7.0.3/manuals/dc/EHN.1
+bc-7.0.3/manuals/dc/A.1
+bc-7.0.3/manuals/dc/EN.1.md
+bc-7.0.3/manuals/build.md
+bc-7.0.3/manuals/algorithms.md
+bc-7.0.3/manuals/bc/
+bc-7.0.3/manuals/bc/A.1.md
+bc-7.0.3/manuals/bc/E.1.md
+bc-7.0.3/manuals/bc/EH.1.md
+bc-7.0.3/manuals/bc/EHN.1.md
+bc-7.0.3/manuals/bc/H.1
+bc-7.0.3/manuals/bc/EH.1
+bc-7.0.3/manuals/bc/E.1
+bc-7.0.3/manuals/bc/HN.1.md
+bc-7.0.3/manuals/bc/EN.1
+bc-7.0.3/manuals/bc/N.1
+bc-7.0.3/manuals/bc/HN.1
+bc-7.0.3/manuals/bc/N.1.md
+bc-7.0.3/manuals/bc/H.1.md
+bc-7.0.3/manuals/bc/EHN.1
+bc-7.0.3/manuals/bc/A.1
+bc-7.0.3/manuals/bc/EN.1.md
+bc-7.0.3/gen/
+bc-7.0.3/gen/lib2.bc
+bc-7.0.3/gen/bc_help.txt
+bc-7.0.3/gen/strgen.c
+bc-7.0.3/gen/lib.bc
+bc-7.0.3/gen/strgen.sh
+bc-7.0.3/gen/dc_help.txt
+bc-7.0.3/NOTICE.md
+bc-7.0.3/MEMORY_BUGS.md
+bc-7.0.3/Makefile.in
+bc-7.0.3/configure
+bc-7.0.3/LICENSE.md
+bc-7.0.3/compile_flags.txt
+bc-7.0.3/tests/
+bc-7.0.3/tests/test.sh
+bc-7.0.3/tests/bcl.c
+bc-7.0.3/tests/scripts.sh
+bc-7.0.3/tests/all.sh
+bc-7.0.3/tests/script.sed
+bc-7.0.3/tests/history.sh
+bc-7.0.3/tests/all.txt
+bc-7.0.3/tests/stdin.sh
+bc-7.0.3/tests/extra_required.txt
+bc-7.0.3/tests/errors.sh
+bc-7.0.3/tests/history.py
+bc-7.0.3/tests/error.sh
+bc-7.0.3/tests/dc/
+bc-7.0.3/tests/dc/multiply_results.txt
+bc-7.0.3/tests/dc/negate.txt
+bc-7.0.3/tests/dc/scripts/
+bc-7.0.3/tests/dc/scripts/asciify.txt
+bc-7.0.3/tests/dc/scripts/prime.dc
+bc-7.0.3/tests/dc/scripts/loop.txt
+bc-7.0.3/tests/dc/scripts/all.txt
+bc-7.0.3/tests/dc/scripts/easter.sh
+bc-7.0.3/tests/dc/scripts/array.dc
+bc-7.0.3/tests/dc/scripts/asciify.dc
+bc-7.0.3/tests/dc/scripts/quit.txt
+bc-7.0.3/tests/dc/scripts/weird.dc
+bc-7.0.3/tests/dc/scripts/quit.dc
+bc-7.0.3/tests/dc/scripts/no_clamp.txt
+bc-7.0.3/tests/dc/scripts/stream.dc
+bc-7.0.3/tests/dc/scripts/else.txt
+bc-7.0.3/tests/dc/scripts/factorial.dc
+bc-7.0.3/tests/dc/scripts/loop.dc
+bc-7.0.3/tests/dc/scripts/weird.txt
+bc-7.0.3/tests/dc/scripts/no_clamp.dc
+bc-7.0.3/tests/dc/scripts/else.dc
+bc-7.0.3/tests/dc/scripts/stream.txt
+bc-7.0.3/tests/dc/scripts/array.txt
+bc-7.0.3/tests/dc/scripts/factorial.txt
+bc-7.0.3/tests/dc/divide_results.txt
+bc-7.0.3/tests/dc/read_errors.txt
+bc-7.0.3/tests/dc/errors.txt
+bc-7.0.3/tests/dc/add_results.txt
+bc-7.0.3/tests/dc/engineering_results.txt
+bc-7.0.3/tests/dc/subtract_results.txt
+bc-7.0.3/tests/dc/engineering.txt
+bc-7.0.3/tests/dc/places_results.txt
+bc-7.0.3/tests/dc/trunc_results.txt
+bc-7.0.3/tests/dc/misc1.txt
+bc-7.0.3/tests/dc/stack_len_results.txt
+bc-7.0.3/tests/dc/is_string_results.txt
+bc-7.0.3/tests/dc/strings.txt
+bc-7.0.3/tests/dc/vars_results.txt
+bc-7.0.3/tests/dc/length.txt
+bc-7.0.3/tests/dc/is_string.txt
+bc-7.0.3/tests/dc/abs_results.txt
+bc-7.0.3/tests/dc/misc_results.txt
+bc-7.0.3/tests/dc/negate_results.txt
+bc-7.0.3/tests/dc/sqrt.txt
+bc-7.0.3/tests/dc/all.txt
+bc-7.0.3/tests/dc/stdin_results.txt
+bc-7.0.3/tests/dc/length_results.txt
+bc-7.0.3/tests/dc/subtract.txt
+bc-7.0.3/tests/dc/multiply.txt
+bc-7.0.3/tests/dc/abs.txt
+bc-7.0.3/tests/dc/stdin.txt
+bc-7.0.3/tests/dc/is_number_results.txt
+bc-7.0.3/tests/dc/divmod_results.txt
+bc-7.0.3/tests/dc/vars.txt
+bc-7.0.3/tests/dc/exec_stack_len_results.txt
+bc-7.0.3/tests/dc/power_results.txt
+bc-7.0.3/tests/dc/rand_results.txt
+bc-7.0.3/tests/dc/shift.txt
+bc-7.0.3/tests/dc/decimal.txt
+bc-7.0.3/tests/dc/errors/
+bc-7.0.3/tests/dc/errors/26.txt
+bc-7.0.3/tests/dc/errors/25.txt
+bc-7.0.3/tests/dc/errors/27.txt
+bc-7.0.3/tests/dc/errors/16.txt
+bc-7.0.3/tests/dc/errors/01.txt
+bc-7.0.3/tests/dc/errors/24.txt
+bc-7.0.3/tests/dc/errors/05.txt
+bc-7.0.3/tests/dc/errors/06.txt
+bc-7.0.3/tests/dc/errors/22.txt
+bc-7.0.3/tests/dc/errors/13.txt
+bc-7.0.3/tests/dc/errors/03.txt
+bc-7.0.3/tests/dc/errors/11.txt
+bc-7.0.3/tests/dc/errors/15.txt
+bc-7.0.3/tests/dc/errors/21.txt
+bc-7.0.3/tests/dc/errors/08.txt
+bc-7.0.3/tests/dc/errors/32.txt
+bc-7.0.3/tests/dc/errors/18.txt
+bc-7.0.3/tests/dc/errors/30.txt
+bc-7.0.3/tests/dc/errors/17.txt
+bc-7.0.3/tests/dc/errors/33.txt
+bc-7.0.3/tests/dc/errors/12.txt
+bc-7.0.3/tests/dc/errors/28.txt
+bc-7.0.3/tests/dc/errors/23.txt
+bc-7.0.3/tests/dc/errors/31.txt
+bc-7.0.3/tests/dc/errors/19.txt
+bc-7.0.3/tests/dc/errors/02.txt
+bc-7.0.3/tests/dc/errors/07.txt
+bc-7.0.3/tests/dc/errors/04.txt
+bc-7.0.3/tests/dc/errors/20.txt
+bc-7.0.3/tests/dc/errors/14.txt
+bc-7.0.3/tests/dc/errors/10.txt
+bc-7.0.3/tests/dc/errors/09.txt
+bc-7.0.3/tests/dc/errors/29.txt
+bc-7.0.3/tests/dc/strings_results.txt
+bc-7.0.3/tests/dc/sqrt_results.txt
+bc-7.0.3/tests/dc/exec_stack_len.txt
+bc-7.0.3/tests/dc/misc1_results.txt
+bc-7.0.3/tests/dc/places.txt
+bc-7.0.3/tests/dc/read_results.txt
+bc-7.0.3/tests/dc/modulus.txt
+bc-7.0.3/tests/dc/modexp_results.txt
+bc-7.0.3/tests/dc/is_number.txt
+bc-7.0.3/tests/dc/read.txt
+bc-7.0.3/tests/dc/modulus_results.txt
+bc-7.0.3/tests/dc/divmod.txt
+bc-7.0.3/tests/dc/divide.txt
+bc-7.0.3/tests/dc/rand.txt
+bc-7.0.3/tests/dc/power.txt
+bc-7.0.3/tests/dc/scientific.txt
+bc-7.0.3/tests/dc/scientific_results.txt
+bc-7.0.3/tests/dc/decimal_results.txt
+bc-7.0.3/tests/dc/modexp.txt
+bc-7.0.3/tests/dc/boolean_results.txt
+bc-7.0.3/tests/dc/trunc.txt
+bc-7.0.3/tests/dc/misc.txt
+bc-7.0.3/tests/dc/add.txt
+bc-7.0.3/tests/dc/stack_len.txt
+bc-7.0.3/tests/dc/boolean.txt
+bc-7.0.3/tests/dc/shift_results.txt
+bc-7.0.3/tests/other.sh
+bc-7.0.3/tests/read.sh
+bc-7.0.3/tests/script.sh
+bc-7.0.3/tests/bc/
+bc-7.0.3/tests/bc/multiply_results.txt
+bc-7.0.3/tests/bc/scripts/
+bc-7.0.3/tests/bc/scripts/bessel.bc
+bc-7.0.3/tests/bc/scripts/screen.txt
+bc-7.0.3/tests/bc/scripts/i2rand.txt
+bc-7.0.3/tests/bc/scripts/references.bc
+bc-7.0.3/tests/bc/scripts/array2.txt
+bc-7.0.3/tests/bc/scripts/screen.bc
+bc-7.0.3/tests/bc/scripts/globals.bc
+bc-7.0.3/tests/bc/scripts/atan.txt
+bc-7.0.3/tests/bc/scripts/add.bc
+bc-7.0.3/tests/bc/scripts/ifs.bc
+bc-7.0.3/tests/bc/scripts/ifs.txt
+bc-7.0.3/tests/bc/scripts/atan.bc
+bc-7.0.3/tests/bc/scripts/strings2.bc
+bc-7.0.3/tests/bc/scripts/root.txt
+bc-7.0.3/tests/bc/scripts/all.txt
+bc-7.0.3/tests/bc/scripts/i2rand.bc
+bc-7.0.3/tests/bc/scripts/subtract.bc
+bc-7.0.3/tests/bc/scripts/cbrt.txt
+bc-7.0.3/tests/bc/scripts/print2.txt
+bc-7.0.3/tests/bc/scripts/afl1.txt
+bc-7.0.3/tests/bc/scripts/multiply.bc
+bc-7.0.3/tests/bc/scripts/array.bc
+bc-7.0.3/tests/bc/scripts/array2.bc
+bc-7.0.3/tests/bc/scripts/root.bc
+bc-7.0.3/tests/bc/scripts/references.txt
+bc-7.0.3/tests/bc/scripts/functions.bc
+bc-7.0.3/tests/bc/scripts/divide.bc
+bc-7.0.3/tests/bc/scripts/print2.bc
+bc-7.0.3/tests/bc/scripts/globals.txt
+bc-7.0.3/tests/bc/scripts/len.bc
+bc-7.0.3/tests/bc/scripts/functions.txt
+bc-7.0.3/tests/bc/scripts/len.txt
+bc-7.0.3/tests/bc/scripts/ifs2.txt
+bc-7.0.3/tests/bc/scripts/rand.bc
+bc-7.0.3/tests/bc/scripts/rand.txt
+bc-7.0.3/tests/bc/scripts/ifs2.bc
+bc-7.0.3/tests/bc/scripts/parse.bc
+bc-7.0.3/tests/bc/scripts/array.txt
+bc-7.0.3/tests/bc/scripts/afl1.bc
+bc-7.0.3/tests/bc/scripts/print.bc
+bc-7.0.3/tests/bc/line_by_line1.txt
+bc-7.0.3/tests/bc/divide_results.txt
+bc-7.0.3/tests/bc/void.txt
+bc-7.0.3/tests/bc/read_errors.txt
+bc-7.0.3/tests/bc/asciify_array_results.txt
+bc-7.0.3/tests/bc/errors.txt
+bc-7.0.3/tests/bc/add_results.txt
+bc-7.0.3/tests/bc/arrays_results.txt
+bc-7.0.3/tests/bc/fib.txt
+bc-7.0.3/tests/bc/arrays.txt
+bc-7.0.3/tests/bc/log_results.txt
+bc-7.0.3/tests/bc/assignments_results.txt
+bc-7.0.3/tests/bc/engineering_results.txt
+bc-7.0.3/tests/bc/subtract_results.txt
+bc-7.0.3/tests/bc/engineering.txt
+bc-7.0.3/tests/bc/line_loop_quit1_results.txt
+bc-7.0.3/tests/bc/misc5_results.txt
+bc-7.0.3/tests/bc/exponent.txt
+bc-7.0.3/tests/bc/places_results.txt
+bc-7.0.3/tests/bc/trunc_results.txt
+bc-7.0.3/tests/bc/line_by_line2_results.txt
+bc-7.0.3/tests/bc/misc1.txt
+bc-7.0.3/tests/bc/is_string_results.txt
+bc-7.0.3/tests/bc/misc2_results.txt
+bc-7.0.3/tests/bc/strings.txt
+bc-7.0.3/tests/bc/vars_results.txt
+bc-7.0.3/tests/bc/line_by_line1_results.txt
+bc-7.0.3/tests/bc/length.txt
+bc-7.0.3/tests/bc/is_string.txt
+bc-7.0.3/tests/bc/abs_results.txt
+bc-7.0.3/tests/bc/misc_results.txt
+bc-7.0.3/tests/bc/pi.txt
+bc-7.0.3/tests/bc/sqrt.txt
+bc-7.0.3/tests/bc/all.txt
+bc-7.0.3/tests/bc/stdin_results.txt
+bc-7.0.3/tests/bc/assignments.txt
+bc-7.0.3/tests/bc/length_results.txt
+bc-7.0.3/tests/bc/subtract.txt
+bc-7.0.3/tests/bc/cosine.txt
+bc-7.0.3/tests/bc/misc3_results.txt
+bc-7.0.3/tests/bc/multiply.txt
+bc-7.0.3/tests/bc/misc5.txt
+bc-7.0.3/tests/bc/abs.txt
+bc-7.0.3/tests/bc/rand_limits.txt
+bc-7.0.3/tests/bc/stdin.txt
+bc-7.0.3/tests/bc/print2.txt
+bc-7.0.3/tests/bc/is_number_results.txt
+bc-7.0.3/tests/bc/divmod_results.txt
+bc-7.0.3/tests/bc/vars.txt
+bc-7.0.3/tests/bc/misc4_results.txt
+bc-7.0.3/tests/bc/leadingzero_results.txt
+bc-7.0.3/tests/bc/recursive_arrays.txt
+bc-7.0.3/tests/bc/asciify_array.txt
+bc-7.0.3/tests/bc/lib2_results.txt
+bc-7.0.3/tests/bc/log.txt
+bc-7.0.3/tests/bc/misc6_results.txt
+bc-7.0.3/tests/bc/lib2.txt
+bc-7.0.3/tests/bc/arctangent.txt
+bc-7.0.3/tests/bc/fib_results.txt
+bc-7.0.3/tests/bc/misc8_results.txt
+bc-7.0.3/tests/bc/power_results.txt
+bc-7.0.3/tests/bc/bitfuncs_results.txt
+bc-7.0.3/tests/bc/arctangent_results.txt
+bc-7.0.3/tests/bc/misc2.txt
+bc-7.0.3/tests/bc/sine_results.txt
+bc-7.0.3/tests/bc/misc6.txt
+bc-7.0.3/tests/bc/scale.txt
+bc-7.0.3/tests/bc/pi_results.txt
+bc-7.0.3/tests/bc/rand_results.txt
+bc-7.0.3/tests/bc/shift.txt
+bc-7.0.3/tests/bc/scale_results.txt
+bc-7.0.3/tests/bc/functions_results.txt
+bc-7.0.3/tests/bc/decimal.txt
+bc-7.0.3/tests/bc/errors/
+bc-7.0.3/tests/bc/errors/26.txt
+bc-7.0.3/tests/bc/errors/25.txt
+bc-7.0.3/tests/bc/errors/27.txt
+bc-7.0.3/tests/bc/errors/16.txt
+bc-7.0.3/tests/bc/errors/01.txt
+bc-7.0.3/tests/bc/errors/24.txt
+bc-7.0.3/tests/bc/errors/05.txt
+bc-7.0.3/tests/bc/errors/06.txt
+bc-7.0.3/tests/bc/errors/37.txt
+bc-7.0.3/tests/bc/errors/22.txt
+bc-7.0.3/tests/bc/errors/13.txt
+bc-7.0.3/tests/bc/errors/03.txt
+bc-7.0.3/tests/bc/errors/11.txt
+bc-7.0.3/tests/bc/errors/15.txt
+bc-7.0.3/tests/bc/errors/38.txt
+bc-7.0.3/tests/bc/errors/21.txt
+bc-7.0.3/tests/bc/errors/08.txt
+bc-7.0.3/tests/bc/errors/32.txt
+bc-7.0.3/tests/bc/errors/18.txt
+bc-7.0.3/tests/bc/errors/35.txt
+bc-7.0.3/tests/bc/errors/30.txt
+bc-7.0.3/tests/bc/errors/17.txt
+bc-7.0.3/tests/bc/errors/33.txt
+bc-7.0.3/tests/bc/errors/12.txt
+bc-7.0.3/tests/bc/errors/28.txt
+bc-7.0.3/tests/bc/errors/23.txt
+bc-7.0.3/tests/bc/errors/31.txt
+bc-7.0.3/tests/bc/errors/19.txt
+bc-7.0.3/tests/bc/errors/02.txt
+bc-7.0.3/tests/bc/errors/07.txt
+bc-7.0.3/tests/bc/errors/34.txt
+bc-7.0.3/tests/bc/errors/04.txt
+bc-7.0.3/tests/bc/errors/36.txt
+bc-7.0.3/tests/bc/errors/20.txt
+bc-7.0.3/tests/bc/errors/14.txt
+bc-7.0.3/tests/bc/errors/10.txt
+bc-7.0.3/tests/bc/errors/09.txt
+bc-7.0.3/tests/bc/errors/29.txt
+bc-7.0.3/tests/bc/strings_results.txt
+bc-7.0.3/tests/bc/sqrt_results.txt
+bc-7.0.3/tests/bc/stdin1_results.txt
+bc-7.0.3/tests/bc/misc1_results.txt
+bc-7.0.3/tests/bc/misc4.txt
+bc-7.0.3/tests/bc/places.txt
+bc-7.0.3/tests/bc/rand_limits_results.txt
+bc-7.0.3/tests/bc/line_loop_quit2.txt
+bc-7.0.3/tests/bc/timeconst.sh
+bc-7.0.3/tests/bc/read_results.txt
+bc-7.0.3/tests/bc/misc8.txt
+bc-7.0.3/tests/bc/letters_results.txt
+bc-7.0.3/tests/bc/sine.txt
+bc-7.0.3/tests/bc/cosine_results.txt
+bc-7.0.3/tests/bc/modulus.txt
+bc-7.0.3/tests/bc/comp_results.txt
+bc-7.0.3/tests/bc/globals.txt
+bc-7.0.3/tests/bc/exponent_results.txt
+bc-7.0.3/tests/bc/functions.txt
+bc-7.0.3/tests/bc/modexp_results.txt
+bc-7.0.3/tests/bc/stdin2.txt
+bc-7.0.3/tests/bc/stdin1.txt
+bc-7.0.3/tests/bc/is_number.txt
+bc-7.0.3/tests/bc/comp.txt
+bc-7.0.3/tests/bc/read.txt
+bc-7.0.3/tests/bc/modulus_results.txt
+bc-7.0.3/tests/bc/bitfuncs.txt
+bc-7.0.3/tests/bc/divmod.txt
+bc-7.0.3/tests/bc/misc7_results.txt
+bc-7.0.3/tests/bc/divide.txt
+bc-7.0.3/tests/bc/print2_results.txt
+bc-7.0.3/tests/bc/rand.txt
+bc-7.0.3/tests/bc/power.txt
+bc-7.0.3/tests/bc/misc7.txt
+bc-7.0.3/tests/bc/line_loop_quit2_results.txt
+bc-7.0.3/tests/bc/scientific.txt
+bc-7.0.3/tests/bc/scientific_results.txt
+bc-7.0.3/tests/bc/line_loop_quit1.txt
+bc-7.0.3/tests/bc/posix_errors.txt
+bc-7.0.3/tests/bc/decimal_results.txt
+bc-7.0.3/tests/bc/modexp.txt
+bc-7.0.3/tests/bc/boolean_results.txt
+bc-7.0.3/tests/bc/trunc.txt
+bc-7.0.3/tests/bc/misc.txt
+bc-7.0.3/tests/bc/add.txt
+bc-7.0.3/tests/bc/globals_results.txt
+bc-7.0.3/tests/bc/recursive_arrays_results.txt
+bc-7.0.3/tests/bc/boolean.txt
+bc-7.0.3/tests/bc/stdin2_results.txt
+bc-7.0.3/tests/bc/leadingzero.txt
+bc-7.0.3/tests/bc/letters.txt
+bc-7.0.3/tests/bc/void_results.txt
+bc-7.0.3/tests/bc/misc3.txt
+bc-7.0.3/tests/bc/shift_results.txt
+bc-7.0.3/tests/bc/line_by_line2.txt
+bc-7.0.3/bcl.pc.in
+bc-7.0.3/locales/
+bc-7.0.3/locales/nl_NL.UTF-8.msg
+bc-7.0.3/locales/en_CA.US-ASCII.msg
+bc-7.0.3/locales/en_US.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.ISO8859-15.msg
+bc-7.0.3/locales/en_CA.utf8.msg
+bc-7.0.3/locales/fr_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.utf8.msg
+bc-7.0.3/locales/ja_JP.eucJP.msg
+bc-7.0.3/locales/en_AU.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.utf8.msg
+bc-7.0.3/locales/en_GB.US-ASCII.msg
+bc-7.0.3/locales/fr_BE.utf8.msg
+bc-7.0.3/locales/zh_CN.UTF-8.msg
+bc-7.0.3/locales/en_NZ.US-ASCII.msg
+bc-7.0.3/locales/fr_FR.ISO8859-15.msg
+bc-7.0.3/locales/fr_CA.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB2312.msg
+bc-7.0.3/locales/ru_RU.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.utf8.msg
+bc-7.0.3/locales/en_AU.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB18030.msg
+bc-7.0.3/locales/pt_PT.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-15.msg
+bc-7.0.3/locales/ru_RU.CP866.msg
+bc-7.0.3/locales/pl_PL.ISO8859-2.msg
+bc-7.0.3/locales/en_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_NZ.UTF-8.msg
+bc-7.0.3/locales/es_ES.ISO8859-1.msg
+bc-7.0.3/locales/ru_RU.ISO8859-5.msg
+bc-7.0.3/locales/pl_PL.utf8.msg
+bc-7.0.3/locales/pt_PT.utf8.msg
+bc-7.0.3/locales/pt_BR.UTF-8.msg
+bc-7.0.3/locales/pt_PT.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_GB.UTF-8.msg
+bc-7.0.3/locales/ru_RU.utf8.msg
+bc-7.0.3/locales/ja_JP.utf8.msg
+bc-7.0.3/locales/en_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-15.msg
+bc-7.0.3/locales/pt_PT.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GBK.msg
+bc-7.0.3/locales/de_DE.UTF-8.msg
+bc-7.0.3/locales/fr_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.utf8.msg
+bc-7.0.3/locales/pt_BR.utf8.msg
+bc-7.0.3/locales/de_DE.utf8.msg
+bc-7.0.3/locales/fr_CA.utf8.msg
+bc-7.0.3/locales/es_ES.UTF-8.msg
+bc-7.0.3/locales/en_CA.UTF-8.msg
+bc-7.0.3/locales/en_US.msg
+bc-7.0.3/locales/zh_CN.eucCN.msg
+bc-7.0.3/locales/fr_CH.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-1.msg
+bc-7.0.3/locales/fr_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_US.UTF-8.msg
+bc-7.0.3/locales/en_US.US-ASCII.msg
+bc-7.0.3/locales/en_IE.US_ASCII.msg
+bc-7.0.3/locales/nl_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_BE.ISO8859-1.msg
+bc-7.0.3/locales/nl_NL.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.utf8.msg
+bc-7.0.3/locales/zh_CN.utf8.msg
+bc-7.0.3/locales/ru_RU.KOI8-R.msg
+bc-7.0.3/locales/fr_BE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.utf8.msg
+bc-7.0.3/locales/en_AU.utf8.msg
+bc-7.0.3/locales/nl_NL.utf8.msg
+bc-7.0.3/locales/ja_JP.UTF-8.msg
+bc-7.0.3/locales/ru_RU.CP1251.msg
+bc-7.0.3/locales/fr_FR.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.US-ASCII.msg
+bc-7.0.3/locales/fr_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_US.US_ASCII.msg
+bc-7.0.3/locales/de_CH.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-1.msg
+bc-7.0.3/locales/de_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_NZ.utf8.msg
+bc-7.0.3/locales/fr_BE.UTF-8.msg
+bc-7.0.3/locales/pl_PL.UTF-8.msg
+bc-7.0.3/locales/fr_CH.utf8.msg
+bc-7.0.3/locales/fr_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_NL.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.utf8.msg
+bc-7.0.3/src/
+bc-7.0.3/src/rand.c
+bc-7.0.3/src/lang.c
+bc-7.0.3/src/bc_parse.c
+bc-7.0.3/src/num.c
+bc-7.0.3/src/vector.c
+bc-7.0.3/src/main.c
+bc-7.0.3/src/opt.c
+bc-7.0.3/src/dc_fuzzer.c
+bc-7.0.3/src/data.c
+bc-7.0.3/src/vm.c
+bc-7.0.3/src/history.c
+bc-7.0.3/src/read.c
+bc-7.0.3/src/bc_lex.c
+bc-7.0.3/src/dc.c
+bc-7.0.3/src/program.c
+bc-7.0.3/src/parse.c
+bc-7.0.3/src/dc_parse.c
+bc-7.0.3/src/library.c
+bc-7.0.3/src/bc_fuzzer.c
+bc-7.0.3/src/args.c
+bc-7.0.3/src/lex.c
+bc-7.0.3/src/dc_lex.c
+bc-7.0.3/src/bc.c
+bc-7.0.3/src/file.c
+bc-7.0.3/README.md
+Testing NLS...
+NLS works.
+
+Testing gencat...
+gencat works.
+
+Testing history...
+History does not work.
+Disabling history...
+
+Testing for FreeBSD...
+Not on FreeBSD. Using _POSIX_C_SOURCE and _XOPEN_SOURCE.
+
+Testing for macOS...
+Not on macOS.
+
+Testing for OpenBSD...
+Not on OpenBSD.
+
+unneeded: bc_fuzzer.c dc_fuzzer.c history.c library.c
+Version: 7.0.3
+Building bc
+Building dc
+
+BC_ENABLE_LIBRARY=0
+
+BC_ENABLE_HISTORY=0
+BC_ENABLE_EXTRA_MATH=1
+BC_ENABLE_NLS=1
+
+BC_ENABLE_AFL=0
+
+BC_NUM_KARATSUBA_LEN=32
+
+CC=gcc
+CFLAGS=-O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0
+HOSTCC=gcc
+HOSTCFLAGS= -std=c99
+CPPFLAGS=-DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700
+LDFLAGS=-s 
+PREFIX=/usr
+BINDIR=/usr/bin
+INCLUDEDIR=/usr/include
+LIBDIR=/usr/lib
+DATAROOTDIR=/usr/share
+DATADIR=/usr/share
+MANDIR=/usr/share/man
+MAN1DIR=/usr/share/man/man1
+MAN3DIR=/usr/share/man/man3
+NLSPATH=/usr/share/locale/%L/%N
+PC_PATH=
+EXECSUFFIX=
+EXECPREFIX=
+DESTDIR=
+LONG_BIT=
+GEN_HOST=1
+GEN_EMU=
+
+Setting Defaults
+================
+bc.banner=0
+bc.sigint_reset=1
+dc.sigint_reset=1
+bc.tty_mode=1
+dc.tty_mode=0
+bc.prompt=1
+dc.prompt=0
+bc.expr_exit=1
+dc.expr_exit=1
+bc.digit_clamp=0
+dc.digit_clamp=0
+mkdir -p bin
+gcc -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -I./include/ -std=c99 -o ./gen/strgen ./gen/strgen.c
+./gen/strgen ./gen/dc_help.txt ./gen/dc_help.c 0 dc_help "" DC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/dc_help.o -c gen/dc_help.c
+./gen/strgen ./gen/bc_help.txt ./gen/bc_help.c 0 bc_help "" BC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/bc_help.o -c gen/bc_help.c
+./gen/strgen ./gen/lib.bc ./gen/lib.c 0 bc_lib bc_lib_name BC_ENABLED 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/lib.o -c gen/lib.c
+./gen/strgen ./gen/lib2.bc ./gen/lib2.c 0 bc_lib2 bc_lib2_name "BC_ENABLED && BC_ENABLE_EXTRA_MATH" 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o gen/lib2.o -c gen/lib2.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/args.o -c ./src/args.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/bc.o -c ./src/bc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/bc_lex.o -c ./src/bc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/bc_parse.o -c ./src/bc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/data.o -c ./src/data.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/dc.o -c ./src/dc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/dc_lex.o -c ./src/dc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/dc_parse.o -c ./src/dc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/file.o -c ./src/file.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/lang.o -c ./src/lang.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/lex.o -c ./src/lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/main.o -c ./src/main.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/num.o -c ./src/num.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/opt.o -c ./src/opt.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/parse.o -c ./src/parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/program.o -c ./src/program.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/rand.o -c ./src/rand.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/read.o -c ./src/read.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/vector.o -c ./src/vector.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 -o src/vm.o -c ./src/vm.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=H  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=0 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=0 ./gen/dc_help.o ./gen/bc_help.o ./gen/lib.o ./gen/lib2.o src/args.o src/bc.o src/bc_lex.o src/bc_parse.o src/data.o src/dc.o src/dc_lex.o src/dc_parse.o src/file.o src/lang.o src/lex.o src/main.o src/num.o src/opt.o src/parse.o src/program.o src/rand.o src/read.o src/vector.o src/vm.o -s  -o bin/bc
+./scripts/link.sh bin dc
+./scripts/locale_install.sh /usr/share/locale/%L/%N bc /tmp/choccynix
+Installing de_DE.UTF-8...done
+Installing es_ES.UTF-8...done
+Installing fr_FR.UTF-8...done
+Installing ja_JP.UTF-8...done
+Installing nl_NL.UTF-8...done
+Installing pl_PL.UTF-8...done
+Installing pt_PT.UTF-8...done
+Installing ru_RU.CP1251...done
+Installing ru_RU.KOI8-R...done
+Installing ru_RU.UTF-8...done
+Installing zh_CN.GB18030...done
+Installing zh_CN.GB2312...done
+Installing zh_CN.GBK...done
+Installing zh_CN.UTF-8...done
+Linking de_AT.UTF-8...done
+Linking de_CH.UTF-8...done
+Linking en_AU.UTF-8...done
+Linking en_CA.UTF-8...done
+Linking en_GB.UTF-8...done
+Linking en_IE.UTF-8...done
+Linking en_NZ.UTF-8...done
+Linking en_US.UTF-8...done
+Linking fr_BE.UTF-8...done
+Linking fr_CA.UTF-8...done
+Linking fr_CH.UTF-8...done
+Linking pt_BR.UTF-8...done
+./scripts/safe-install.sh -Dm644 manuals/bc.1 /tmp/choccynix/usr/share/man/man1/bc.1
+./scripts/safe-install.sh -Dm644 manuals/dc.1 /tmp/choccynix/usr/share/man/man1/dc.1
+./scripts/exec-install.sh /tmp/choccynix/usr/bin "" "/home/liv/Projects/ChoccyNix/autotar/bc-7.0.3/bin"
+bc-7.0.3/
+bc-7.0.3/scripts/
+bc-7.0.3/scripts/sqrt_random.bc
+bc-7.0.3/scripts/locale_uninstall.sh
+bc-7.0.3/scripts/sqrt_int_guess.bc
+bc-7.0.3/scripts/safe-install.sh
+bc-7.0.3/scripts/lint.sh
+bc-7.0.3/scripts/locale_install.sh
+bc-7.0.3/scripts/link.sh
+bc-7.0.3/scripts/functions.sh
+bc-7.0.3/scripts/format.sh
+bc-7.0.3/scripts/exec-install.sh
+bc-7.0.3/scripts/sqrt_frac_guess.bc
+bc-7.0.3/scripts/os.c
+bc-7.0.3/scripts/sqrt_random.sh
+bc-7.0.3/scripts/karatsuba.py
+bc-7.0.3/NEWS.md
+bc-7.0.3/configure.sh
+bc-7.0.3/include/
+bc-7.0.3/include/status.h
+bc-7.0.3/include/vm.h
+bc-7.0.3/include/lang.h
+bc-7.0.3/include/library.h
+bc-7.0.3/include/program.h
+bc-7.0.3/include/parse.h
+bc-7.0.3/include/ossfuzz.h
+bc-7.0.3/include/file.h
+bc-7.0.3/include/num.h
+bc-7.0.3/include/vector.h
+bc-7.0.3/include/lex.h
+bc-7.0.3/include/bcl.h
+bc-7.0.3/include/version.h
+bc-7.0.3/include/read.h
+bc-7.0.3/include/dc.h
+bc-7.0.3/include/rand.h
+bc-7.0.3/include/history.h
+bc-7.0.3/include/opt.h
+bc-7.0.3/include/args.h
+bc-7.0.3/include/bc.h
+bc-7.0.3/vs/
+bc-7.0.3/vs/bc.vcxproj.filters
+bc-7.0.3/vs/bcl.vcxproj
+bc-7.0.3/vs/bc.vcxproj
+bc-7.0.3/vs/bcl.vcxproj.filters
+bc-7.0.3/vs/tests/
+bc-7.0.3/vs/tests/tests_bc.bat
+bc-7.0.3/vs/tests/tests_dc.bat
+bc-7.0.3/vs/bcl.sln
+bc-7.0.3/vs/bc.sln
+bc-7.0.3/manuals/
+bc-7.0.3/manuals/bcl.3
+bc-7.0.3/manuals/bcl.3.md
+bc-7.0.3/manuals/dc/
+bc-7.0.3/manuals/dc/A.1.md
+bc-7.0.3/manuals/dc/E.1.md
+bc-7.0.3/manuals/dc/EH.1.md
+bc-7.0.3/manuals/dc/EHN.1.md
+bc-7.0.3/manuals/dc/H.1
+bc-7.0.3/manuals/dc/EH.1
+bc-7.0.3/manuals/dc/E.1
+bc-7.0.3/manuals/dc/HN.1.md
+bc-7.0.3/manuals/dc/EN.1
+bc-7.0.3/manuals/dc/N.1
+bc-7.0.3/manuals/dc/HN.1
+bc-7.0.3/manuals/dc/N.1.md
+bc-7.0.3/manuals/dc/H.1.md
+bc-7.0.3/manuals/dc/EHN.1
+bc-7.0.3/manuals/dc/A.1
+bc-7.0.3/manuals/dc/EN.1.md
+bc-7.0.3/manuals/build.md
+bc-7.0.3/manuals/algorithms.md
+bc-7.0.3/manuals/bc/
+bc-7.0.3/manuals/bc/A.1.md
+bc-7.0.3/manuals/bc/E.1.md
+bc-7.0.3/manuals/bc/EH.1.md
+bc-7.0.3/manuals/bc/EHN.1.md
+bc-7.0.3/manuals/bc/H.1
+bc-7.0.3/manuals/bc/EH.1
+bc-7.0.3/manuals/bc/E.1
+bc-7.0.3/manuals/bc/HN.1.md
+bc-7.0.3/manuals/bc/EN.1
+bc-7.0.3/manuals/bc/N.1
+bc-7.0.3/manuals/bc/HN.1
+bc-7.0.3/manuals/bc/N.1.md
+bc-7.0.3/manuals/bc/H.1.md
+bc-7.0.3/manuals/bc/EHN.1
+bc-7.0.3/manuals/bc/A.1
+bc-7.0.3/manuals/bc/EN.1.md
+bc-7.0.3/gen/
+bc-7.0.3/gen/lib2.bc
+bc-7.0.3/gen/bc_help.txt
+bc-7.0.3/gen/strgen.c
+bc-7.0.3/gen/lib.bc
+bc-7.0.3/gen/strgen.sh
+bc-7.0.3/gen/dc_help.txt
+bc-7.0.3/NOTICE.md
+bc-7.0.3/MEMORY_BUGS.md
+bc-7.0.3/Makefile.in
+bc-7.0.3/configure
+bc-7.0.3/LICENSE.md
+bc-7.0.3/compile_flags.txt
+bc-7.0.3/tests/
+bc-7.0.3/tests/test.sh
+bc-7.0.3/tests/bcl.c
+bc-7.0.3/tests/scripts.sh
+bc-7.0.3/tests/all.sh
+bc-7.0.3/tests/script.sed
+bc-7.0.3/tests/history.sh
+bc-7.0.3/tests/all.txt
+bc-7.0.3/tests/stdin.sh
+bc-7.0.3/tests/extra_required.txt
+bc-7.0.3/tests/errors.sh
+bc-7.0.3/tests/history.py
+bc-7.0.3/tests/error.sh
+bc-7.0.3/tests/dc/
+bc-7.0.3/tests/dc/multiply_results.txt
+bc-7.0.3/tests/dc/negate.txt
+bc-7.0.3/tests/dc/scripts/
+bc-7.0.3/tests/dc/scripts/asciify.txt
+bc-7.0.3/tests/dc/scripts/prime.dc
+bc-7.0.3/tests/dc/scripts/loop.txt
+bc-7.0.3/tests/dc/scripts/all.txt
+bc-7.0.3/tests/dc/scripts/easter.sh
+bc-7.0.3/tests/dc/scripts/array.dc
+bc-7.0.3/tests/dc/scripts/asciify.dc
+bc-7.0.3/tests/dc/scripts/quit.txt
+bc-7.0.3/tests/dc/scripts/weird.dc
+bc-7.0.3/tests/dc/scripts/quit.dc
+bc-7.0.3/tests/dc/scripts/no_clamp.txt
+bc-7.0.3/tests/dc/scripts/stream.dc
+bc-7.0.3/tests/dc/scripts/else.txt
+bc-7.0.3/tests/dc/scripts/factorial.dc
+bc-7.0.3/tests/dc/scripts/loop.dc
+bc-7.0.3/tests/dc/scripts/weird.txt
+bc-7.0.3/tests/dc/scripts/no_clamp.dc
+bc-7.0.3/tests/dc/scripts/else.dc
+bc-7.0.3/tests/dc/scripts/stream.txt
+bc-7.0.3/tests/dc/scripts/array.txt
+bc-7.0.3/tests/dc/scripts/factorial.txt
+bc-7.0.3/tests/dc/divide_results.txt
+bc-7.0.3/tests/dc/read_errors.txt
+bc-7.0.3/tests/dc/errors.txt
+bc-7.0.3/tests/dc/add_results.txt
+bc-7.0.3/tests/dc/engineering_results.txt
+bc-7.0.3/tests/dc/subtract_results.txt
+bc-7.0.3/tests/dc/engineering.txt
+bc-7.0.3/tests/dc/places_results.txt
+bc-7.0.3/tests/dc/trunc_results.txt
+bc-7.0.3/tests/dc/misc1.txt
+bc-7.0.3/tests/dc/stack_len_results.txt
+bc-7.0.3/tests/dc/is_string_results.txt
+bc-7.0.3/tests/dc/strings.txt
+bc-7.0.3/tests/dc/vars_results.txt
+bc-7.0.3/tests/dc/length.txt
+bc-7.0.3/tests/dc/is_string.txt
+bc-7.0.3/tests/dc/abs_results.txt
+bc-7.0.3/tests/dc/misc_results.txt
+bc-7.0.3/tests/dc/negate_results.txt
+bc-7.0.3/tests/dc/sqrt.txt
+bc-7.0.3/tests/dc/all.txt
+bc-7.0.3/tests/dc/stdin_results.txt
+bc-7.0.3/tests/dc/length_results.txt
+bc-7.0.3/tests/dc/subtract.txt
+bc-7.0.3/tests/dc/multiply.txt
+bc-7.0.3/tests/dc/abs.txt
+bc-7.0.3/tests/dc/stdin.txt
+bc-7.0.3/tests/dc/is_number_results.txt
+bc-7.0.3/tests/dc/divmod_results.txt
+bc-7.0.3/tests/dc/vars.txt
+bc-7.0.3/tests/dc/exec_stack_len_results.txt
+bc-7.0.3/tests/dc/power_results.txt
+bc-7.0.3/tests/dc/rand_results.txt
+bc-7.0.3/tests/dc/shift.txt
+bc-7.0.3/tests/dc/decimal.txt
+bc-7.0.3/tests/dc/errors/
+bc-7.0.3/tests/dc/errors/26.txt
+bc-7.0.3/tests/dc/errors/25.txt
+bc-7.0.3/tests/dc/errors/27.txt
+bc-7.0.3/tests/dc/errors/16.txt
+bc-7.0.3/tests/dc/errors/01.txt
+bc-7.0.3/tests/dc/errors/24.txt
+bc-7.0.3/tests/dc/errors/05.txt
+bc-7.0.3/tests/dc/errors/06.txt
+bc-7.0.3/tests/dc/errors/22.txt
+bc-7.0.3/tests/dc/errors/13.txt
+bc-7.0.3/tests/dc/errors/03.txt
+bc-7.0.3/tests/dc/errors/11.txt
+bc-7.0.3/tests/dc/errors/15.txt
+bc-7.0.3/tests/dc/errors/21.txt
+bc-7.0.3/tests/dc/errors/08.txt
+bc-7.0.3/tests/dc/errors/32.txt
+bc-7.0.3/tests/dc/errors/18.txt
+bc-7.0.3/tests/dc/errors/30.txt
+bc-7.0.3/tests/dc/errors/17.txt
+bc-7.0.3/tests/dc/errors/33.txt
+bc-7.0.3/tests/dc/errors/12.txt
+bc-7.0.3/tests/dc/errors/28.txt
+bc-7.0.3/tests/dc/errors/23.txt
+bc-7.0.3/tests/dc/errors/31.txt
+bc-7.0.3/tests/dc/errors/19.txt
+bc-7.0.3/tests/dc/errors/02.txt
+bc-7.0.3/tests/dc/errors/07.txt
+bc-7.0.3/tests/dc/errors/04.txt
+bc-7.0.3/tests/dc/errors/20.txt
+bc-7.0.3/tests/dc/errors/14.txt
+bc-7.0.3/tests/dc/errors/10.txt
+bc-7.0.3/tests/dc/errors/09.txt
+bc-7.0.3/tests/dc/errors/29.txt
+bc-7.0.3/tests/dc/strings_results.txt
+bc-7.0.3/tests/dc/sqrt_results.txt
+bc-7.0.3/tests/dc/exec_stack_len.txt
+bc-7.0.3/tests/dc/misc1_results.txt
+bc-7.0.3/tests/dc/places.txt
+bc-7.0.3/tests/dc/read_results.txt
+bc-7.0.3/tests/dc/modulus.txt
+bc-7.0.3/tests/dc/modexp_results.txt
+bc-7.0.3/tests/dc/is_number.txt
+bc-7.0.3/tests/dc/read.txt
+bc-7.0.3/tests/dc/modulus_results.txt
+bc-7.0.3/tests/dc/divmod.txt
+bc-7.0.3/tests/dc/divide.txt
+bc-7.0.3/tests/dc/rand.txt
+bc-7.0.3/tests/dc/power.txt
+bc-7.0.3/tests/dc/scientific.txt
+bc-7.0.3/tests/dc/scientific_results.txt
+bc-7.0.3/tests/dc/decimal_results.txt
+bc-7.0.3/tests/dc/modexp.txt
+bc-7.0.3/tests/dc/boolean_results.txt
+bc-7.0.3/tests/dc/trunc.txt
+bc-7.0.3/tests/dc/misc.txt
+bc-7.0.3/tests/dc/add.txt
+bc-7.0.3/tests/dc/stack_len.txt
+bc-7.0.3/tests/dc/boolean.txt
+bc-7.0.3/tests/dc/shift_results.txt
+bc-7.0.3/tests/other.sh
+bc-7.0.3/tests/read.sh
+bc-7.0.3/tests/script.sh
+bc-7.0.3/tests/bc/
+bc-7.0.3/tests/bc/multiply_results.txt
+bc-7.0.3/tests/bc/scripts/
+bc-7.0.3/tests/bc/scripts/bessel.bc
+bc-7.0.3/tests/bc/scripts/screen.txt
+bc-7.0.3/tests/bc/scripts/i2rand.txt
+bc-7.0.3/tests/bc/scripts/references.bc
+bc-7.0.3/tests/bc/scripts/array2.txt
+bc-7.0.3/tests/bc/scripts/screen.bc
+bc-7.0.3/tests/bc/scripts/globals.bc
+bc-7.0.3/tests/bc/scripts/atan.txt
+bc-7.0.3/tests/bc/scripts/add.bc
+bc-7.0.3/tests/bc/scripts/ifs.bc
+bc-7.0.3/tests/bc/scripts/ifs.txt
+bc-7.0.3/tests/bc/scripts/atan.bc
+bc-7.0.3/tests/bc/scripts/strings2.bc
+bc-7.0.3/tests/bc/scripts/root.txt
+bc-7.0.3/tests/bc/scripts/all.txt
+bc-7.0.3/tests/bc/scripts/i2rand.bc
+bc-7.0.3/tests/bc/scripts/subtract.bc
+bc-7.0.3/tests/bc/scripts/cbrt.txt
+bc-7.0.3/tests/bc/scripts/print2.txt
+bc-7.0.3/tests/bc/scripts/afl1.txt
+bc-7.0.3/tests/bc/scripts/multiply.bc
+bc-7.0.3/tests/bc/scripts/array.bc
+bc-7.0.3/tests/bc/scripts/array2.bc
+bc-7.0.3/tests/bc/scripts/root.bc
+bc-7.0.3/tests/bc/scripts/references.txt
+bc-7.0.3/tests/bc/scripts/functions.bc
+bc-7.0.3/tests/bc/scripts/divide.bc
+bc-7.0.3/tests/bc/scripts/print2.bc
+bc-7.0.3/tests/bc/scripts/globals.txt
+bc-7.0.3/tests/bc/scripts/len.bc
+bc-7.0.3/tests/bc/scripts/functions.txt
+bc-7.0.3/tests/bc/scripts/len.txt
+bc-7.0.3/tests/bc/scripts/ifs2.txt
+bc-7.0.3/tests/bc/scripts/rand.bc
+bc-7.0.3/tests/bc/scripts/rand.txt
+bc-7.0.3/tests/bc/scripts/ifs2.bc
+bc-7.0.3/tests/bc/scripts/parse.bc
+bc-7.0.3/tests/bc/scripts/array.txt
+bc-7.0.3/tests/bc/scripts/afl1.bc
+bc-7.0.3/tests/bc/scripts/print.bc
+bc-7.0.3/tests/bc/line_by_line1.txt
+bc-7.0.3/tests/bc/divide_results.txt
+bc-7.0.3/tests/bc/void.txt
+bc-7.0.3/tests/bc/read_errors.txt
+bc-7.0.3/tests/bc/asciify_array_results.txt
+bc-7.0.3/tests/bc/errors.txt
+bc-7.0.3/tests/bc/add_results.txt
+bc-7.0.3/tests/bc/arrays_results.txt
+bc-7.0.3/tests/bc/fib.txt
+bc-7.0.3/tests/bc/arrays.txt
+bc-7.0.3/tests/bc/log_results.txt
+bc-7.0.3/tests/bc/assignments_results.txt
+bc-7.0.3/tests/bc/engineering_results.txt
+bc-7.0.3/tests/bc/subtract_results.txt
+bc-7.0.3/tests/bc/engineering.txt
+bc-7.0.3/tests/bc/line_loop_quit1_results.txt
+bc-7.0.3/tests/bc/misc5_results.txt
+bc-7.0.3/tests/bc/exponent.txt
+bc-7.0.3/tests/bc/places_results.txt
+bc-7.0.3/tests/bc/trunc_results.txt
+bc-7.0.3/tests/bc/line_by_line2_results.txt
+bc-7.0.3/tests/bc/misc1.txt
+bc-7.0.3/tests/bc/is_string_results.txt
+bc-7.0.3/tests/bc/misc2_results.txt
+bc-7.0.3/tests/bc/strings.txt
+bc-7.0.3/tests/bc/vars_results.txt
+bc-7.0.3/tests/bc/line_by_line1_results.txt
+bc-7.0.3/tests/bc/length.txt
+bc-7.0.3/tests/bc/is_string.txt
+bc-7.0.3/tests/bc/abs_results.txt
+bc-7.0.3/tests/bc/misc_results.txt
+bc-7.0.3/tests/bc/pi.txt
+bc-7.0.3/tests/bc/sqrt.txt
+bc-7.0.3/tests/bc/all.txt
+bc-7.0.3/tests/bc/stdin_results.txt
+bc-7.0.3/tests/bc/assignments.txt
+bc-7.0.3/tests/bc/length_results.txt
+bc-7.0.3/tests/bc/subtract.txt
+bc-7.0.3/tests/bc/cosine.txt
+bc-7.0.3/tests/bc/misc3_results.txt
+bc-7.0.3/tests/bc/multiply.txt
+bc-7.0.3/tests/bc/misc5.txt
+bc-7.0.3/tests/bc/abs.txt
+bc-7.0.3/tests/bc/rand_limits.txt
+bc-7.0.3/tests/bc/stdin.txt
+bc-7.0.3/tests/bc/print2.txt
+bc-7.0.3/tests/bc/is_number_results.txt
+bc-7.0.3/tests/bc/divmod_results.txt
+bc-7.0.3/tests/bc/vars.txt
+bc-7.0.3/tests/bc/misc4_results.txt
+bc-7.0.3/tests/bc/leadingzero_results.txt
+bc-7.0.3/tests/bc/recursive_arrays.txt
+bc-7.0.3/tests/bc/asciify_array.txt
+bc-7.0.3/tests/bc/lib2_results.txt
+bc-7.0.3/tests/bc/log.txt
+bc-7.0.3/tests/bc/misc6_results.txt
+bc-7.0.3/tests/bc/lib2.txt
+bc-7.0.3/tests/bc/arctangent.txt
+bc-7.0.3/tests/bc/fib_results.txt
+bc-7.0.3/tests/bc/misc8_results.txt
+bc-7.0.3/tests/bc/power_results.txt
+bc-7.0.3/tests/bc/bitfuncs_results.txt
+bc-7.0.3/tests/bc/arctangent_results.txt
+bc-7.0.3/tests/bc/misc2.txt
+bc-7.0.3/tests/bc/sine_results.txt
+bc-7.0.3/tests/bc/misc6.txt
+bc-7.0.3/tests/bc/scale.txt
+bc-7.0.3/tests/bc/pi_results.txt
+bc-7.0.3/tests/bc/rand_results.txt
+bc-7.0.3/tests/bc/shift.txt
+bc-7.0.3/tests/bc/scale_results.txt
+bc-7.0.3/tests/bc/functions_results.txt
+bc-7.0.3/tests/bc/decimal.txt
+bc-7.0.3/tests/bc/errors/
+bc-7.0.3/tests/bc/errors/26.txt
+bc-7.0.3/tests/bc/errors/25.txt
+bc-7.0.3/tests/bc/errors/27.txt
+bc-7.0.3/tests/bc/errors/16.txt
+bc-7.0.3/tests/bc/errors/01.txt
+bc-7.0.3/tests/bc/errors/24.txt
+bc-7.0.3/tests/bc/errors/05.txt
+bc-7.0.3/tests/bc/errors/06.txt
+bc-7.0.3/tests/bc/errors/37.txt
+bc-7.0.3/tests/bc/errors/22.txt
+bc-7.0.3/tests/bc/errors/13.txt
+bc-7.0.3/tests/bc/errors/03.txt
+bc-7.0.3/tests/bc/errors/11.txt
+bc-7.0.3/tests/bc/errors/15.txt
+bc-7.0.3/tests/bc/errors/38.txt
+bc-7.0.3/tests/bc/errors/21.txt
+bc-7.0.3/tests/bc/errors/08.txt
+bc-7.0.3/tests/bc/errors/32.txt
+bc-7.0.3/tests/bc/errors/18.txt
+bc-7.0.3/tests/bc/errors/35.txt
+bc-7.0.3/tests/bc/errors/30.txt
+bc-7.0.3/tests/bc/errors/17.txt
+bc-7.0.3/tests/bc/errors/33.txt
+bc-7.0.3/tests/bc/errors/12.txt
+bc-7.0.3/tests/bc/errors/28.txt
+bc-7.0.3/tests/bc/errors/23.txt
+bc-7.0.3/tests/bc/errors/31.txt
+bc-7.0.3/tests/bc/errors/19.txt
+bc-7.0.3/tests/bc/errors/02.txt
+bc-7.0.3/tests/bc/errors/07.txt
+bc-7.0.3/tests/bc/errors/34.txt
+bc-7.0.3/tests/bc/errors/04.txt
+bc-7.0.3/tests/bc/errors/36.txt
+bc-7.0.3/tests/bc/errors/20.txt
+bc-7.0.3/tests/bc/errors/14.txt
+bc-7.0.3/tests/bc/errors/10.txt
+bc-7.0.3/tests/bc/errors/09.txt
+bc-7.0.3/tests/bc/errors/29.txt
+bc-7.0.3/tests/bc/strings_results.txt
+bc-7.0.3/tests/bc/sqrt_results.txt
+bc-7.0.3/tests/bc/stdin1_results.txt
+bc-7.0.3/tests/bc/misc1_results.txt
+bc-7.0.3/tests/bc/misc4.txt
+bc-7.0.3/tests/bc/places.txt
+bc-7.0.3/tests/bc/rand_limits_results.txt
+bc-7.0.3/tests/bc/line_loop_quit2.txt
+bc-7.0.3/tests/bc/timeconst.sh
+bc-7.0.3/tests/bc/read_results.txt
+bc-7.0.3/tests/bc/misc8.txt
+bc-7.0.3/tests/bc/letters_results.txt
+bc-7.0.3/tests/bc/sine.txt
+bc-7.0.3/tests/bc/cosine_results.txt
+bc-7.0.3/tests/bc/modulus.txt
+bc-7.0.3/tests/bc/comp_results.txt
+bc-7.0.3/tests/bc/globals.txt
+bc-7.0.3/tests/bc/exponent_results.txt
+bc-7.0.3/tests/bc/functions.txt
+bc-7.0.3/tests/bc/modexp_results.txt
+bc-7.0.3/tests/bc/stdin2.txt
+bc-7.0.3/tests/bc/stdin1.txt
+bc-7.0.3/tests/bc/is_number.txt
+bc-7.0.3/tests/bc/comp.txt
+bc-7.0.3/tests/bc/read.txt
+bc-7.0.3/tests/bc/modulus_results.txt
+bc-7.0.3/tests/bc/bitfuncs.txt
+bc-7.0.3/tests/bc/divmod.txt
+bc-7.0.3/tests/bc/misc7_results.txt
+bc-7.0.3/tests/bc/divide.txt
+bc-7.0.3/tests/bc/print2_results.txt
+bc-7.0.3/tests/bc/rand.txt
+bc-7.0.3/tests/bc/power.txt
+bc-7.0.3/tests/bc/misc7.txt
+bc-7.0.3/tests/bc/line_loop_quit2_results.txt
+bc-7.0.3/tests/bc/scientific.txt
+bc-7.0.3/tests/bc/scientific_results.txt
+bc-7.0.3/tests/bc/line_loop_quit1.txt
+bc-7.0.3/tests/bc/posix_errors.txt
+bc-7.0.3/tests/bc/decimal_results.txt
+bc-7.0.3/tests/bc/modexp.txt
+bc-7.0.3/tests/bc/boolean_results.txt
+bc-7.0.3/tests/bc/trunc.txt
+bc-7.0.3/tests/bc/misc.txt
+bc-7.0.3/tests/bc/add.txt
+bc-7.0.3/tests/bc/globals_results.txt
+bc-7.0.3/tests/bc/recursive_arrays_results.txt
+bc-7.0.3/tests/bc/boolean.txt
+bc-7.0.3/tests/bc/stdin2_results.txt
+bc-7.0.3/tests/bc/leadingzero.txt
+bc-7.0.3/tests/bc/letters.txt
+bc-7.0.3/tests/bc/void_results.txt
+bc-7.0.3/tests/bc/misc3.txt
+bc-7.0.3/tests/bc/shift_results.txt
+bc-7.0.3/tests/bc/line_by_line2.txt
+bc-7.0.3/bcl.pc.in
+bc-7.0.3/locales/
+bc-7.0.3/locales/nl_NL.UTF-8.msg
+bc-7.0.3/locales/en_CA.US-ASCII.msg
+bc-7.0.3/locales/en_US.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.ISO8859-15.msg
+bc-7.0.3/locales/en_CA.utf8.msg
+bc-7.0.3/locales/fr_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.utf8.msg
+bc-7.0.3/locales/ja_JP.eucJP.msg
+bc-7.0.3/locales/en_AU.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.utf8.msg
+bc-7.0.3/locales/en_GB.US-ASCII.msg
+bc-7.0.3/locales/fr_BE.utf8.msg
+bc-7.0.3/locales/zh_CN.UTF-8.msg
+bc-7.0.3/locales/en_NZ.US-ASCII.msg
+bc-7.0.3/locales/fr_FR.ISO8859-15.msg
+bc-7.0.3/locales/fr_CA.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB2312.msg
+bc-7.0.3/locales/ru_RU.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.utf8.msg
+bc-7.0.3/locales/en_AU.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB18030.msg
+bc-7.0.3/locales/pt_PT.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-15.msg
+bc-7.0.3/locales/ru_RU.CP866.msg
+bc-7.0.3/locales/pl_PL.ISO8859-2.msg
+bc-7.0.3/locales/en_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_NZ.UTF-8.msg
+bc-7.0.3/locales/es_ES.ISO8859-1.msg
+bc-7.0.3/locales/ru_RU.ISO8859-5.msg
+bc-7.0.3/locales/pl_PL.utf8.msg
+bc-7.0.3/locales/pt_PT.utf8.msg
+bc-7.0.3/locales/pt_BR.UTF-8.msg
+bc-7.0.3/locales/pt_PT.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_GB.UTF-8.msg
+bc-7.0.3/locales/ru_RU.utf8.msg
+bc-7.0.3/locales/ja_JP.utf8.msg
+bc-7.0.3/locales/en_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-15.msg
+bc-7.0.3/locales/pt_PT.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GBK.msg
+bc-7.0.3/locales/de_DE.UTF-8.msg
+bc-7.0.3/locales/fr_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.utf8.msg
+bc-7.0.3/locales/pt_BR.utf8.msg
+bc-7.0.3/locales/de_DE.utf8.msg
+bc-7.0.3/locales/fr_CA.utf8.msg
+bc-7.0.3/locales/es_ES.UTF-8.msg
+bc-7.0.3/locales/en_CA.UTF-8.msg
+bc-7.0.3/locales/en_US.msg
+bc-7.0.3/locales/zh_CN.eucCN.msg
+bc-7.0.3/locales/fr_CH.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-1.msg
+bc-7.0.3/locales/fr_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_US.UTF-8.msg
+bc-7.0.3/locales/en_US.US-ASCII.msg
+bc-7.0.3/locales/en_IE.US_ASCII.msg
+bc-7.0.3/locales/nl_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_BE.ISO8859-1.msg
+bc-7.0.3/locales/nl_NL.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.utf8.msg
+bc-7.0.3/locales/zh_CN.utf8.msg
+bc-7.0.3/locales/ru_RU.KOI8-R.msg
+bc-7.0.3/locales/fr_BE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.utf8.msg
+bc-7.0.3/locales/en_AU.utf8.msg
+bc-7.0.3/locales/nl_NL.utf8.msg
+bc-7.0.3/locales/ja_JP.UTF-8.msg
+bc-7.0.3/locales/ru_RU.CP1251.msg
+bc-7.0.3/locales/fr_FR.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.US-ASCII.msg
+bc-7.0.3/locales/fr_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_US.US_ASCII.msg
+bc-7.0.3/locales/de_CH.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-1.msg
+bc-7.0.3/locales/de_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_NZ.utf8.msg
+bc-7.0.3/locales/fr_BE.UTF-8.msg
+bc-7.0.3/locales/pl_PL.UTF-8.msg
+bc-7.0.3/locales/fr_CH.utf8.msg
+bc-7.0.3/locales/fr_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_NL.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.utf8.msg
+bc-7.0.3/src/
+bc-7.0.3/src/rand.c
+bc-7.0.3/src/lang.c
+bc-7.0.3/src/bc_parse.c
+bc-7.0.3/src/num.c
+bc-7.0.3/src/vector.c
+bc-7.0.3/src/main.c
+bc-7.0.3/src/opt.c
+bc-7.0.3/src/dc_fuzzer.c
+bc-7.0.3/src/data.c
+bc-7.0.3/src/vm.c
+bc-7.0.3/src/history.c
+bc-7.0.3/src/read.c
+bc-7.0.3/src/bc_lex.c
+bc-7.0.3/src/dc.c
+bc-7.0.3/src/program.c
+bc-7.0.3/src/parse.c
+bc-7.0.3/src/dc_parse.c
+bc-7.0.3/src/library.c
+bc-7.0.3/src/bc_fuzzer.c
+bc-7.0.3/src/args.c
+bc-7.0.3/src/lex.c
+bc-7.0.3/src/dc_lex.c
+bc-7.0.3/src/bc.c
+bc-7.0.3/src/file.c
+bc-7.0.3/README.md
+Testing NLS...
+NLS works.
+
+Testing gencat...
+gencat works.
+
+Testing history...
+History works.
+
+Testing for FreeBSD...
+Not on FreeBSD. Using _POSIX_C_SOURCE and _XOPEN_SOURCE.
+
+Testing for macOS...
+Not on macOS.
+
+Testing for OpenBSD...
+Not on OpenBSD.
+
+unneeded: bc_fuzzer.c dc_fuzzer.c library.c
+Version: 7.0.3
+Building bc
+Building dc
+
+BC_ENABLE_LIBRARY=0
+
+BC_ENABLE_HISTORY=1
+BC_ENABLE_EXTRA_MATH=1
+BC_ENABLE_NLS=1
+
+BC_ENABLE_AFL=0
+
+BC_NUM_KARATSUBA_LEN=32
+
+CC=gcc
+CFLAGS=-O3  -std=c99
+HOSTCC=gcc
+HOSTCFLAGS= -std=c99
+CPPFLAGS=-DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700
+LDFLAGS=-s  -lreadline
+PREFIX=/usr
+BINDIR=/usr/bin
+INCLUDEDIR=/usr/include
+LIBDIR=/usr/lib
+DATAROOTDIR=/usr/share
+DATADIR=/usr/share
+MANDIR=/usr/share/man
+MAN1DIR=/usr/share/man/man1
+MAN3DIR=/usr/share/man/man3
+NLSPATH=/usr/share/locale/%L/%N
+PC_PATH=
+EXECSUFFIX=
+EXECPREFIX=
+DESTDIR=
+LONG_BIT=
+GEN_HOST=1
+GEN_EMU=
+
+Setting Defaults
+================
+bc.banner=0
+bc.sigint_reset=1
+dc.sigint_reset=1
+bc.tty_mode=1
+dc.tty_mode=0
+bc.prompt=1
+dc.prompt=0
+bc.expr_exit=1
+dc.expr_exit=1
+bc.digit_clamp=0
+dc.digit_clamp=0
+mkdir -p bin
+gcc -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -I./include/ -std=c99 -o ./gen/strgen ./gen/strgen.c
+./gen/strgen ./gen/dc_help.txt ./gen/dc_help.c 0 dc_help "" DC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/dc_help.o -c gen/dc_help.c
+./gen/strgen ./gen/bc_help.txt ./gen/bc_help.c 0 bc_help "" BC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/bc_help.o -c gen/bc_help.c
+./gen/strgen ./gen/lib.bc ./gen/lib.c 0 bc_lib bc_lib_name BC_ENABLED 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/lib.o -c gen/lib.c
+./gen/strgen ./gen/lib2.bc ./gen/lib2.c 0 bc_lib2 bc_lib2_name "BC_ENABLED && BC_ENABLE_EXTRA_MATH" 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/lib2.o -c gen/lib2.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/args.o -c ./src/args.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc.o -c ./src/bc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc_lex.o -c ./src/bc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc_parse.o -c ./src/bc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/data.o -c ./src/data.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc.o -c ./src/dc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc_lex.o -c ./src/dc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc_parse.o -c ./src/dc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/file.o -c ./src/file.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/history.o -c ./src/history.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/lang.o -c ./src/lang.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/lex.o -c ./src/lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/main.o -c ./src/main.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/num.o -c ./src/num.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/opt.o -c ./src/opt.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/parse.o -c ./src/parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/program.o -c ./src/program.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/rand.o -c ./src/rand.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/read.o -c ./src/read.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/vector.o -c ./src/vector.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/vm.o -c ./src/vm.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 ./gen/dc_help.o ./gen/bc_help.o ./gen/lib.o ./gen/lib2.o src/args.o src/bc.o src/bc_lex.o src/bc_parse.o src/data.o src/dc.o src/dc_lex.o src/dc_parse.o src/file.o src/history.o src/lang.o src/lex.o src/main.o src/num.o src/opt.o src/parse.o src/program.o src/rand.o src/read.o src/vector.o src/vm.o -s  -lreadline -o bin/bc
+./scripts/link.sh bin dc
+./scripts/locale_install.sh /usr/share/locale/%L/%N bc /tmp/choccynix
+Installing de_DE.UTF-8...done
+Installing es_ES.UTF-8...done
+Installing fr_FR.UTF-8...done
+Installing ja_JP.UTF-8...done
+Installing nl_NL.UTF-8...done
+Installing pl_PL.UTF-8...done
+Installing pt_PT.UTF-8...done
+Installing ru_RU.CP1251...done
+Installing ru_RU.KOI8-R...done
+Installing ru_RU.UTF-8...done
+Installing zh_CN.GB18030...done
+Installing zh_CN.GB2312...done
+Installing zh_CN.GBK...done
+Installing zh_CN.UTF-8...done
+Linking de_AT.UTF-8...done
+Linking de_CH.UTF-8...done
+Linking en_AU.UTF-8...done
+Linking en_CA.UTF-8...done
+Linking en_GB.UTF-8...done
+Linking en_IE.UTF-8...done
+Linking en_NZ.UTF-8...done
+Linking en_US.UTF-8...done
+Linking fr_BE.UTF-8...done
+Linking fr_CA.UTF-8...done
+Linking fr_CH.UTF-8...done
+Linking pt_BR.UTF-8...done
+./scripts/safe-install.sh -Dm644 manuals/bc.1 /tmp/choccynix/usr/share/man/man1/bc.1
+./scripts/safe-install.sh -Dm644 manuals/dc.1 /tmp/choccynix/usr/share/man/man1/dc.1
+./scripts/exec-install.sh /tmp/choccynix/usr/bin "" "/home/liv/Projects/ChoccyNix/autotar/bc-7.0.3/bin"
+bc-7.0.3/
+bc-7.0.3/scripts/
+bc-7.0.3/scripts/sqrt_random.bc
+bc-7.0.3/scripts/locale_uninstall.sh
+bc-7.0.3/scripts/sqrt_int_guess.bc
+bc-7.0.3/scripts/safe-install.sh
+bc-7.0.3/scripts/lint.sh
+bc-7.0.3/scripts/locale_install.sh
+bc-7.0.3/scripts/link.sh
+bc-7.0.3/scripts/functions.sh
+bc-7.0.3/scripts/format.sh
+bc-7.0.3/scripts/exec-install.sh
+bc-7.0.3/scripts/sqrt_frac_guess.bc
+bc-7.0.3/scripts/os.c
+bc-7.0.3/scripts/sqrt_random.sh
+bc-7.0.3/scripts/karatsuba.py
+bc-7.0.3/NEWS.md
+bc-7.0.3/configure.sh
+bc-7.0.3/include/
+bc-7.0.3/include/status.h
+bc-7.0.3/include/vm.h
+bc-7.0.3/include/lang.h
+bc-7.0.3/include/library.h
+bc-7.0.3/include/program.h
+bc-7.0.3/include/parse.h
+bc-7.0.3/include/ossfuzz.h
+bc-7.0.3/include/file.h
+bc-7.0.3/include/num.h
+bc-7.0.3/include/vector.h
+bc-7.0.3/include/lex.h
+bc-7.0.3/include/bcl.h
+bc-7.0.3/include/version.h
+bc-7.0.3/include/read.h
+bc-7.0.3/include/dc.h
+bc-7.0.3/include/rand.h
+bc-7.0.3/include/history.h
+bc-7.0.3/include/opt.h
+bc-7.0.3/include/args.h
+bc-7.0.3/include/bc.h
+bc-7.0.3/vs/
+bc-7.0.3/vs/bc.vcxproj.filters
+bc-7.0.3/vs/bcl.vcxproj
+bc-7.0.3/vs/bc.vcxproj
+bc-7.0.3/vs/bcl.vcxproj.filters
+bc-7.0.3/vs/tests/
+bc-7.0.3/vs/tests/tests_bc.bat
+bc-7.0.3/vs/tests/tests_dc.bat
+bc-7.0.3/vs/bcl.sln
+bc-7.0.3/vs/bc.sln
+bc-7.0.3/manuals/
+bc-7.0.3/manuals/bcl.3
+bc-7.0.3/manuals/bcl.3.md
+bc-7.0.3/manuals/dc/
+bc-7.0.3/manuals/dc/A.1.md
+bc-7.0.3/manuals/dc/E.1.md
+bc-7.0.3/manuals/dc/EH.1.md
+bc-7.0.3/manuals/dc/EHN.1.md
+bc-7.0.3/manuals/dc/H.1
+bc-7.0.3/manuals/dc/EH.1
+bc-7.0.3/manuals/dc/E.1
+bc-7.0.3/manuals/dc/HN.1.md
+bc-7.0.3/manuals/dc/EN.1
+bc-7.0.3/manuals/dc/N.1
+bc-7.0.3/manuals/dc/HN.1
+bc-7.0.3/manuals/dc/N.1.md
+bc-7.0.3/manuals/dc/H.1.md
+bc-7.0.3/manuals/dc/EHN.1
+bc-7.0.3/manuals/dc/A.1
+bc-7.0.3/manuals/dc/EN.1.md
+bc-7.0.3/manuals/build.md
+bc-7.0.3/manuals/algorithms.md
+bc-7.0.3/manuals/bc/
+bc-7.0.3/manuals/bc/A.1.md
+bc-7.0.3/manuals/bc/E.1.md
+bc-7.0.3/manuals/bc/EH.1.md
+bc-7.0.3/manuals/bc/EHN.1.md
+bc-7.0.3/manuals/bc/H.1
+bc-7.0.3/manuals/bc/EH.1
+bc-7.0.3/manuals/bc/E.1
+bc-7.0.3/manuals/bc/HN.1.md
+bc-7.0.3/manuals/bc/EN.1
+bc-7.0.3/manuals/bc/N.1
+bc-7.0.3/manuals/bc/HN.1
+bc-7.0.3/manuals/bc/N.1.md
+bc-7.0.3/manuals/bc/H.1.md
+bc-7.0.3/manuals/bc/EHN.1
+bc-7.0.3/manuals/bc/A.1
+bc-7.0.3/manuals/bc/EN.1.md
+bc-7.0.3/gen/
+bc-7.0.3/gen/lib2.bc
+bc-7.0.3/gen/bc_help.txt
+bc-7.0.3/gen/strgen.c
+bc-7.0.3/gen/lib.bc
+bc-7.0.3/gen/strgen.sh
+bc-7.0.3/gen/dc_help.txt
+bc-7.0.3/NOTICE.md
+bc-7.0.3/MEMORY_BUGS.md
+bc-7.0.3/Makefile.in
+bc-7.0.3/configure
+bc-7.0.3/LICENSE.md
+bc-7.0.3/compile_flags.txt
+bc-7.0.3/tests/
+bc-7.0.3/tests/test.sh
+bc-7.0.3/tests/bcl.c
+bc-7.0.3/tests/scripts.sh
+bc-7.0.3/tests/all.sh
+bc-7.0.3/tests/script.sed
+bc-7.0.3/tests/history.sh
+bc-7.0.3/tests/all.txt
+bc-7.0.3/tests/stdin.sh
+bc-7.0.3/tests/extra_required.txt
+bc-7.0.3/tests/errors.sh
+bc-7.0.3/tests/history.py
+bc-7.0.3/tests/error.sh
+bc-7.0.3/tests/dc/
+bc-7.0.3/tests/dc/multiply_results.txt
+bc-7.0.3/tests/dc/negate.txt
+bc-7.0.3/tests/dc/scripts/
+bc-7.0.3/tests/dc/scripts/asciify.txt
+bc-7.0.3/tests/dc/scripts/prime.dc
+bc-7.0.3/tests/dc/scripts/loop.txt
+bc-7.0.3/tests/dc/scripts/all.txt
+bc-7.0.3/tests/dc/scripts/easter.sh
+bc-7.0.3/tests/dc/scripts/array.dc
+bc-7.0.3/tests/dc/scripts/asciify.dc
+bc-7.0.3/tests/dc/scripts/quit.txt
+bc-7.0.3/tests/dc/scripts/weird.dc
+bc-7.0.3/tests/dc/scripts/quit.dc
+bc-7.0.3/tests/dc/scripts/no_clamp.txt
+bc-7.0.3/tests/dc/scripts/stream.dc
+bc-7.0.3/tests/dc/scripts/else.txt
+bc-7.0.3/tests/dc/scripts/factorial.dc
+bc-7.0.3/tests/dc/scripts/loop.dc
+bc-7.0.3/tests/dc/scripts/weird.txt
+bc-7.0.3/tests/dc/scripts/no_clamp.dc
+bc-7.0.3/tests/dc/scripts/else.dc
+bc-7.0.3/tests/dc/scripts/stream.txt
+bc-7.0.3/tests/dc/scripts/array.txt
+bc-7.0.3/tests/dc/scripts/factorial.txt
+bc-7.0.3/tests/dc/divide_results.txt
+bc-7.0.3/tests/dc/read_errors.txt
+bc-7.0.3/tests/dc/errors.txt
+bc-7.0.3/tests/dc/add_results.txt
+bc-7.0.3/tests/dc/engineering_results.txt
+bc-7.0.3/tests/dc/subtract_results.txt
+bc-7.0.3/tests/dc/engineering.txt
+bc-7.0.3/tests/dc/places_results.txt
+bc-7.0.3/tests/dc/trunc_results.txt
+bc-7.0.3/tests/dc/misc1.txt
+bc-7.0.3/tests/dc/stack_len_results.txt
+bc-7.0.3/tests/dc/is_string_results.txt
+bc-7.0.3/tests/dc/strings.txt
+bc-7.0.3/tests/dc/vars_results.txt
+bc-7.0.3/tests/dc/length.txt
+bc-7.0.3/tests/dc/is_string.txt
+bc-7.0.3/tests/dc/abs_results.txt
+bc-7.0.3/tests/dc/misc_results.txt
+bc-7.0.3/tests/dc/negate_results.txt
+bc-7.0.3/tests/dc/sqrt.txt
+bc-7.0.3/tests/dc/all.txt
+bc-7.0.3/tests/dc/stdin_results.txt
+bc-7.0.3/tests/dc/length_results.txt
+bc-7.0.3/tests/dc/subtract.txt
+bc-7.0.3/tests/dc/multiply.txt
+bc-7.0.3/tests/dc/abs.txt
+bc-7.0.3/tests/dc/stdin.txt
+bc-7.0.3/tests/dc/is_number_results.txt
+bc-7.0.3/tests/dc/divmod_results.txt
+bc-7.0.3/tests/dc/vars.txt
+bc-7.0.3/tests/dc/exec_stack_len_results.txt
+bc-7.0.3/tests/dc/power_results.txt
+bc-7.0.3/tests/dc/rand_results.txt
+bc-7.0.3/tests/dc/shift.txt
+bc-7.0.3/tests/dc/decimal.txt
+bc-7.0.3/tests/dc/errors/
+bc-7.0.3/tests/dc/errors/26.txt
+bc-7.0.3/tests/dc/errors/25.txt
+bc-7.0.3/tests/dc/errors/27.txt
+bc-7.0.3/tests/dc/errors/16.txt
+bc-7.0.3/tests/dc/errors/01.txt
+bc-7.0.3/tests/dc/errors/24.txt
+bc-7.0.3/tests/dc/errors/05.txt
+bc-7.0.3/tests/dc/errors/06.txt
+bc-7.0.3/tests/dc/errors/22.txt
+bc-7.0.3/tests/dc/errors/13.txt
+bc-7.0.3/tests/dc/errors/03.txt
+bc-7.0.3/tests/dc/errors/11.txt
+bc-7.0.3/tests/dc/errors/15.txt
+bc-7.0.3/tests/dc/errors/21.txt
+bc-7.0.3/tests/dc/errors/08.txt
+bc-7.0.3/tests/dc/errors/32.txt
+bc-7.0.3/tests/dc/errors/18.txt
+bc-7.0.3/tests/dc/errors/30.txt
+bc-7.0.3/tests/dc/errors/17.txt
+bc-7.0.3/tests/dc/errors/33.txt
+bc-7.0.3/tests/dc/errors/12.txt
+bc-7.0.3/tests/dc/errors/28.txt
+bc-7.0.3/tests/dc/errors/23.txt
+bc-7.0.3/tests/dc/errors/31.txt
+bc-7.0.3/tests/dc/errors/19.txt
+bc-7.0.3/tests/dc/errors/02.txt
+bc-7.0.3/tests/dc/errors/07.txt
+bc-7.0.3/tests/dc/errors/04.txt
+bc-7.0.3/tests/dc/errors/20.txt
+bc-7.0.3/tests/dc/errors/14.txt
+bc-7.0.3/tests/dc/errors/10.txt
+bc-7.0.3/tests/dc/errors/09.txt
+bc-7.0.3/tests/dc/errors/29.txt
+bc-7.0.3/tests/dc/strings_results.txt
+bc-7.0.3/tests/dc/sqrt_results.txt
+bc-7.0.3/tests/dc/exec_stack_len.txt
+bc-7.0.3/tests/dc/misc1_results.txt
+bc-7.0.3/tests/dc/places.txt
+bc-7.0.3/tests/dc/read_results.txt
+bc-7.0.3/tests/dc/modulus.txt
+bc-7.0.3/tests/dc/modexp_results.txt
+bc-7.0.3/tests/dc/is_number.txt
+bc-7.0.3/tests/dc/read.txt
+bc-7.0.3/tests/dc/modulus_results.txt
+bc-7.0.3/tests/dc/divmod.txt
+bc-7.0.3/tests/dc/divide.txt
+bc-7.0.3/tests/dc/rand.txt
+bc-7.0.3/tests/dc/power.txt
+bc-7.0.3/tests/dc/scientific.txt
+bc-7.0.3/tests/dc/scientific_results.txt
+bc-7.0.3/tests/dc/decimal_results.txt
+bc-7.0.3/tests/dc/modexp.txt
+bc-7.0.3/tests/dc/boolean_results.txt
+bc-7.0.3/tests/dc/trunc.txt
+bc-7.0.3/tests/dc/misc.txt
+bc-7.0.3/tests/dc/add.txt
+bc-7.0.3/tests/dc/stack_len.txt
+bc-7.0.3/tests/dc/boolean.txt
+bc-7.0.3/tests/dc/shift_results.txt
+bc-7.0.3/tests/other.sh
+bc-7.0.3/tests/read.sh
+bc-7.0.3/tests/script.sh
+bc-7.0.3/tests/bc/
+bc-7.0.3/tests/bc/multiply_results.txt
+bc-7.0.3/tests/bc/scripts/
+bc-7.0.3/tests/bc/scripts/bessel.bc
+bc-7.0.3/tests/bc/scripts/screen.txt
+bc-7.0.3/tests/bc/scripts/i2rand.txt
+bc-7.0.3/tests/bc/scripts/references.bc
+bc-7.0.3/tests/bc/scripts/array2.txt
+bc-7.0.3/tests/bc/scripts/screen.bc
+bc-7.0.3/tests/bc/scripts/globals.bc
+bc-7.0.3/tests/bc/scripts/atan.txt
+bc-7.0.3/tests/bc/scripts/add.bc
+bc-7.0.3/tests/bc/scripts/ifs.bc
+bc-7.0.3/tests/bc/scripts/ifs.txt
+bc-7.0.3/tests/bc/scripts/atan.bc
+bc-7.0.3/tests/bc/scripts/strings2.bc
+bc-7.0.3/tests/bc/scripts/root.txt
+bc-7.0.3/tests/bc/scripts/all.txt
+bc-7.0.3/tests/bc/scripts/i2rand.bc
+bc-7.0.3/tests/bc/scripts/subtract.bc
+bc-7.0.3/tests/bc/scripts/cbrt.txt
+bc-7.0.3/tests/bc/scripts/print2.txt
+bc-7.0.3/tests/bc/scripts/afl1.txt
+bc-7.0.3/tests/bc/scripts/multiply.bc
+bc-7.0.3/tests/bc/scripts/array.bc
+bc-7.0.3/tests/bc/scripts/array2.bc
+bc-7.0.3/tests/bc/scripts/root.bc
+bc-7.0.3/tests/bc/scripts/references.txt
+bc-7.0.3/tests/bc/scripts/functions.bc
+bc-7.0.3/tests/bc/scripts/divide.bc
+bc-7.0.3/tests/bc/scripts/print2.bc
+bc-7.0.3/tests/bc/scripts/globals.txt
+bc-7.0.3/tests/bc/scripts/len.bc
+bc-7.0.3/tests/bc/scripts/functions.txt
+bc-7.0.3/tests/bc/scripts/len.txt
+bc-7.0.3/tests/bc/scripts/ifs2.txt
+bc-7.0.3/tests/bc/scripts/rand.bc
+bc-7.0.3/tests/bc/scripts/rand.txt
+bc-7.0.3/tests/bc/scripts/ifs2.bc
+bc-7.0.3/tests/bc/scripts/parse.bc
+bc-7.0.3/tests/bc/scripts/array.txt
+bc-7.0.3/tests/bc/scripts/afl1.bc
+bc-7.0.3/tests/bc/scripts/print.bc
+bc-7.0.3/tests/bc/line_by_line1.txt
+bc-7.0.3/tests/bc/divide_results.txt
+bc-7.0.3/tests/bc/void.txt
+bc-7.0.3/tests/bc/read_errors.txt
+bc-7.0.3/tests/bc/asciify_array_results.txt
+bc-7.0.3/tests/bc/errors.txt
+bc-7.0.3/tests/bc/add_results.txt
+bc-7.0.3/tests/bc/arrays_results.txt
+bc-7.0.3/tests/bc/fib.txt
+bc-7.0.3/tests/bc/arrays.txt
+bc-7.0.3/tests/bc/log_results.txt
+bc-7.0.3/tests/bc/assignments_results.txt
+bc-7.0.3/tests/bc/engineering_results.txt
+bc-7.0.3/tests/bc/subtract_results.txt
+bc-7.0.3/tests/bc/engineering.txt
+bc-7.0.3/tests/bc/line_loop_quit1_results.txt
+bc-7.0.3/tests/bc/misc5_results.txt
+bc-7.0.3/tests/bc/exponent.txt
+bc-7.0.3/tests/bc/places_results.txt
+bc-7.0.3/tests/bc/trunc_results.txt
+bc-7.0.3/tests/bc/line_by_line2_results.txt
+bc-7.0.3/tests/bc/misc1.txt
+bc-7.0.3/tests/bc/is_string_results.txt
+bc-7.0.3/tests/bc/misc2_results.txt
+bc-7.0.3/tests/bc/strings.txt
+bc-7.0.3/tests/bc/vars_results.txt
+bc-7.0.3/tests/bc/line_by_line1_results.txt
+bc-7.0.3/tests/bc/length.txt
+bc-7.0.3/tests/bc/is_string.txt
+bc-7.0.3/tests/bc/abs_results.txt
+bc-7.0.3/tests/bc/misc_results.txt
+bc-7.0.3/tests/bc/pi.txt
+bc-7.0.3/tests/bc/sqrt.txt
+bc-7.0.3/tests/bc/all.txt
+bc-7.0.3/tests/bc/stdin_results.txt
+bc-7.0.3/tests/bc/assignments.txt
+bc-7.0.3/tests/bc/length_results.txt
+bc-7.0.3/tests/bc/subtract.txt
+bc-7.0.3/tests/bc/cosine.txt
+bc-7.0.3/tests/bc/misc3_results.txt
+bc-7.0.3/tests/bc/multiply.txt
+bc-7.0.3/tests/bc/misc5.txt
+bc-7.0.3/tests/bc/abs.txt
+bc-7.0.3/tests/bc/rand_limits.txt
+bc-7.0.3/tests/bc/stdin.txt
+bc-7.0.3/tests/bc/print2.txt
+bc-7.0.3/tests/bc/is_number_results.txt
+bc-7.0.3/tests/bc/divmod_results.txt
+bc-7.0.3/tests/bc/vars.txt
+bc-7.0.3/tests/bc/misc4_results.txt
+bc-7.0.3/tests/bc/leadingzero_results.txt
+bc-7.0.3/tests/bc/recursive_arrays.txt
+bc-7.0.3/tests/bc/asciify_array.txt
+bc-7.0.3/tests/bc/lib2_results.txt
+bc-7.0.3/tests/bc/log.txt
+bc-7.0.3/tests/bc/misc6_results.txt
+bc-7.0.3/tests/bc/lib2.txt
+bc-7.0.3/tests/bc/arctangent.txt
+bc-7.0.3/tests/bc/fib_results.txt
+bc-7.0.3/tests/bc/misc8_results.txt
+bc-7.0.3/tests/bc/power_results.txt
+bc-7.0.3/tests/bc/bitfuncs_results.txt
+bc-7.0.3/tests/bc/arctangent_results.txt
+bc-7.0.3/tests/bc/misc2.txt
+bc-7.0.3/tests/bc/sine_results.txt
+bc-7.0.3/tests/bc/misc6.txt
+bc-7.0.3/tests/bc/scale.txt
+bc-7.0.3/tests/bc/pi_results.txt
+bc-7.0.3/tests/bc/rand_results.txt
+bc-7.0.3/tests/bc/shift.txt
+bc-7.0.3/tests/bc/scale_results.txt
+bc-7.0.3/tests/bc/functions_results.txt
+bc-7.0.3/tests/bc/decimal.txt
+bc-7.0.3/tests/bc/errors/
+bc-7.0.3/tests/bc/errors/26.txt
+bc-7.0.3/tests/bc/errors/25.txt
+bc-7.0.3/tests/bc/errors/27.txt
+bc-7.0.3/tests/bc/errors/16.txt
+bc-7.0.3/tests/bc/errors/01.txt
+bc-7.0.3/tests/bc/errors/24.txt
+bc-7.0.3/tests/bc/errors/05.txt
+bc-7.0.3/tests/bc/errors/06.txt
+bc-7.0.3/tests/bc/errors/37.txt
+bc-7.0.3/tests/bc/errors/22.txt
+bc-7.0.3/tests/bc/errors/13.txt
+bc-7.0.3/tests/bc/errors/03.txt
+bc-7.0.3/tests/bc/errors/11.txt
+bc-7.0.3/tests/bc/errors/15.txt
+bc-7.0.3/tests/bc/errors/38.txt
+bc-7.0.3/tests/bc/errors/21.txt
+bc-7.0.3/tests/bc/errors/08.txt
+bc-7.0.3/tests/bc/errors/32.txt
+bc-7.0.3/tests/bc/errors/18.txt
+bc-7.0.3/tests/bc/errors/35.txt
+bc-7.0.3/tests/bc/errors/30.txt
+bc-7.0.3/tests/bc/errors/17.txt
+bc-7.0.3/tests/bc/errors/33.txt
+bc-7.0.3/tests/bc/errors/12.txt
+bc-7.0.3/tests/bc/errors/28.txt
+bc-7.0.3/tests/bc/errors/23.txt
+bc-7.0.3/tests/bc/errors/31.txt
+bc-7.0.3/tests/bc/errors/19.txt
+bc-7.0.3/tests/bc/errors/02.txt
+bc-7.0.3/tests/bc/errors/07.txt
+bc-7.0.3/tests/bc/errors/34.txt
+bc-7.0.3/tests/bc/errors/04.txt
+bc-7.0.3/tests/bc/errors/36.txt
+bc-7.0.3/tests/bc/errors/20.txt
+bc-7.0.3/tests/bc/errors/14.txt
+bc-7.0.3/tests/bc/errors/10.txt
+bc-7.0.3/tests/bc/errors/09.txt
+bc-7.0.3/tests/bc/errors/29.txt
+bc-7.0.3/tests/bc/strings_results.txt
+bc-7.0.3/tests/bc/sqrt_results.txt
+bc-7.0.3/tests/bc/stdin1_results.txt
+bc-7.0.3/tests/bc/misc1_results.txt
+bc-7.0.3/tests/bc/misc4.txt
+bc-7.0.3/tests/bc/places.txt
+bc-7.0.3/tests/bc/rand_limits_results.txt
+bc-7.0.3/tests/bc/line_loop_quit2.txt
+bc-7.0.3/tests/bc/timeconst.sh
+bc-7.0.3/tests/bc/read_results.txt
+bc-7.0.3/tests/bc/misc8.txt
+bc-7.0.3/tests/bc/letters_results.txt
+bc-7.0.3/tests/bc/sine.txt
+bc-7.0.3/tests/bc/cosine_results.txt
+bc-7.0.3/tests/bc/modulus.txt
+bc-7.0.3/tests/bc/comp_results.txt
+bc-7.0.3/tests/bc/globals.txt
+bc-7.0.3/tests/bc/exponent_results.txt
+bc-7.0.3/tests/bc/functions.txt
+bc-7.0.3/tests/bc/modexp_results.txt
+bc-7.0.3/tests/bc/stdin2.txt
+bc-7.0.3/tests/bc/stdin1.txt
+bc-7.0.3/tests/bc/is_number.txt
+bc-7.0.3/tests/bc/comp.txt
+bc-7.0.3/tests/bc/read.txt
+bc-7.0.3/tests/bc/modulus_results.txt
+bc-7.0.3/tests/bc/bitfuncs.txt
+bc-7.0.3/tests/bc/divmod.txt
+bc-7.0.3/tests/bc/misc7_results.txt
+bc-7.0.3/tests/bc/divide.txt
+bc-7.0.3/tests/bc/print2_results.txt
+bc-7.0.3/tests/bc/rand.txt
+bc-7.0.3/tests/bc/power.txt
+bc-7.0.3/tests/bc/misc7.txt
+bc-7.0.3/tests/bc/line_loop_quit2_results.txt
+bc-7.0.3/tests/bc/scientific.txt
+bc-7.0.3/tests/bc/scientific_results.txt
+bc-7.0.3/tests/bc/line_loop_quit1.txt
+bc-7.0.3/tests/bc/posix_errors.txt
+bc-7.0.3/tests/bc/decimal_results.txt
+bc-7.0.3/tests/bc/modexp.txt
+bc-7.0.3/tests/bc/boolean_results.txt
+bc-7.0.3/tests/bc/trunc.txt
+bc-7.0.3/tests/bc/misc.txt
+bc-7.0.3/tests/bc/add.txt
+bc-7.0.3/tests/bc/globals_results.txt
+bc-7.0.3/tests/bc/recursive_arrays_results.txt
+bc-7.0.3/tests/bc/boolean.txt
+bc-7.0.3/tests/bc/stdin2_results.txt
+bc-7.0.3/tests/bc/leadingzero.txt
+bc-7.0.3/tests/bc/letters.txt
+bc-7.0.3/tests/bc/void_results.txt
+bc-7.0.3/tests/bc/misc3.txt
+bc-7.0.3/tests/bc/shift_results.txt
+bc-7.0.3/tests/bc/line_by_line2.txt
+bc-7.0.3/bcl.pc.in
+bc-7.0.3/locales/
+bc-7.0.3/locales/nl_NL.UTF-8.msg
+bc-7.0.3/locales/en_CA.US-ASCII.msg
+bc-7.0.3/locales/en_US.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.ISO8859-15.msg
+bc-7.0.3/locales/en_CA.utf8.msg
+bc-7.0.3/locales/fr_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.utf8.msg
+bc-7.0.3/locales/ja_JP.eucJP.msg
+bc-7.0.3/locales/en_AU.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.utf8.msg
+bc-7.0.3/locales/en_GB.US-ASCII.msg
+bc-7.0.3/locales/fr_BE.utf8.msg
+bc-7.0.3/locales/zh_CN.UTF-8.msg
+bc-7.0.3/locales/en_NZ.US-ASCII.msg
+bc-7.0.3/locales/fr_FR.ISO8859-15.msg
+bc-7.0.3/locales/fr_CA.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB2312.msg
+bc-7.0.3/locales/ru_RU.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.utf8.msg
+bc-7.0.3/locales/en_AU.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB18030.msg
+bc-7.0.3/locales/pt_PT.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-15.msg
+bc-7.0.3/locales/ru_RU.CP866.msg
+bc-7.0.3/locales/pl_PL.ISO8859-2.msg
+bc-7.0.3/locales/en_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_NZ.UTF-8.msg
+bc-7.0.3/locales/es_ES.ISO8859-1.msg
+bc-7.0.3/locales/ru_RU.ISO8859-5.msg
+bc-7.0.3/locales/pl_PL.utf8.msg
+bc-7.0.3/locales/pt_PT.utf8.msg
+bc-7.0.3/locales/pt_BR.UTF-8.msg
+bc-7.0.3/locales/pt_PT.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_GB.UTF-8.msg
+bc-7.0.3/locales/ru_RU.utf8.msg
+bc-7.0.3/locales/ja_JP.utf8.msg
+bc-7.0.3/locales/en_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-15.msg
+bc-7.0.3/locales/pt_PT.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GBK.msg
+bc-7.0.3/locales/de_DE.UTF-8.msg
+bc-7.0.3/locales/fr_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.utf8.msg
+bc-7.0.3/locales/pt_BR.utf8.msg
+bc-7.0.3/locales/de_DE.utf8.msg
+bc-7.0.3/locales/fr_CA.utf8.msg
+bc-7.0.3/locales/es_ES.UTF-8.msg
+bc-7.0.3/locales/en_CA.UTF-8.msg
+bc-7.0.3/locales/en_US.msg
+bc-7.0.3/locales/zh_CN.eucCN.msg
+bc-7.0.3/locales/fr_CH.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-1.msg
+bc-7.0.3/locales/fr_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_US.UTF-8.msg
+bc-7.0.3/locales/en_US.US-ASCII.msg
+bc-7.0.3/locales/en_IE.US_ASCII.msg
+bc-7.0.3/locales/nl_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_BE.ISO8859-1.msg
+bc-7.0.3/locales/nl_NL.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.utf8.msg
+bc-7.0.3/locales/zh_CN.utf8.msg
+bc-7.0.3/locales/ru_RU.KOI8-R.msg
+bc-7.0.3/locales/fr_BE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.utf8.msg
+bc-7.0.3/locales/en_AU.utf8.msg
+bc-7.0.3/locales/nl_NL.utf8.msg
+bc-7.0.3/locales/ja_JP.UTF-8.msg
+bc-7.0.3/locales/ru_RU.CP1251.msg
+bc-7.0.3/locales/fr_FR.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.US-ASCII.msg
+bc-7.0.3/locales/fr_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_US.US_ASCII.msg
+bc-7.0.3/locales/de_CH.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-1.msg
+bc-7.0.3/locales/de_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_NZ.utf8.msg
+bc-7.0.3/locales/fr_BE.UTF-8.msg
+bc-7.0.3/locales/pl_PL.UTF-8.msg
+bc-7.0.3/locales/fr_CH.utf8.msg
+bc-7.0.3/locales/fr_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_NL.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.utf8.msg
+bc-7.0.3/src/
+bc-7.0.3/src/rand.c
+bc-7.0.3/src/lang.c
+bc-7.0.3/src/bc_parse.c
+bc-7.0.3/src/num.c
+bc-7.0.3/src/vector.c
+bc-7.0.3/src/main.c
+bc-7.0.3/src/opt.c
+bc-7.0.3/src/dc_fuzzer.c
+bc-7.0.3/src/data.c
+bc-7.0.3/src/vm.c
+bc-7.0.3/src/history.c
+bc-7.0.3/src/read.c
+bc-7.0.3/src/bc_lex.c
+bc-7.0.3/src/dc.c
+bc-7.0.3/src/program.c
+bc-7.0.3/src/parse.c
+bc-7.0.3/src/dc_parse.c
+bc-7.0.3/src/library.c
+bc-7.0.3/src/bc_fuzzer.c
+bc-7.0.3/src/args.c
+bc-7.0.3/src/lex.c
+bc-7.0.3/src/dc_lex.c
+bc-7.0.3/src/bc.c
+bc-7.0.3/src/file.c
+bc-7.0.3/README.md
+Testing NLS...
+NLS works.
+
+Testing gencat...
+gencat works.
+
+Testing history...
+History works.
+
+Testing for FreeBSD...
+Not on FreeBSD. Using _POSIX_C_SOURCE and _XOPEN_SOURCE.
+
+Testing for macOS...
+Not on macOS.
+
+Testing for OpenBSD...
+Not on OpenBSD.
+
+unneeded: bc_fuzzer.c dc_fuzzer.c library.c
+Version: 7.0.3
+Building bc
+Building dc
+
+BC_ENABLE_LIBRARY=0
+
+BC_ENABLE_HISTORY=1
+BC_ENABLE_EXTRA_MATH=1
+BC_ENABLE_NLS=1
+
+BC_ENABLE_AFL=0
+
+BC_NUM_KARATSUBA_LEN=32
+
+CC=gcc
+CFLAGS=-O3  -std=c99
+HOSTCC=gcc
+HOSTCFLAGS= -std=c99
+CPPFLAGS=-DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700
+LDFLAGS=-s  -lreadline
+PREFIX=/usr
+BINDIR=/usr/bin
+INCLUDEDIR=/usr/include
+LIBDIR=/usr/lib
+DATAROOTDIR=/usr/share
+DATADIR=/usr/share
+MANDIR=/usr/share/man
+MAN1DIR=/usr/share/man/man1
+MAN3DIR=/usr/share/man/man3
+NLSPATH=/usr/share/locale/%L/%N
+PC_PATH=
+EXECSUFFIX=
+EXECPREFIX=
+DESTDIR=
+LONG_BIT=
+GEN_HOST=1
+GEN_EMU=
+
+Setting Defaults
+================
+bc.banner=0
+bc.sigint_reset=1
+dc.sigint_reset=1
+bc.tty_mode=1
+dc.tty_mode=0
+bc.prompt=1
+dc.prompt=0
+bc.expr_exit=1
+dc.expr_exit=1
+bc.digit_clamp=0
+dc.digit_clamp=0
+mkdir -p bin
+gcc -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -I./include/ -std=c99 -o ./gen/strgen ./gen/strgen.c
+./gen/strgen ./gen/dc_help.txt ./gen/dc_help.c 0 dc_help "" DC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/dc_help.o -c gen/dc_help.c
+./gen/strgen ./gen/bc_help.txt ./gen/bc_help.c 0 bc_help "" BC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/bc_help.o -c gen/bc_help.c
+./gen/strgen ./gen/lib.bc ./gen/lib.c 0 bc_lib bc_lib_name BC_ENABLED 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/lib.o -c gen/lib.c
+./gen/strgen ./gen/lib2.bc ./gen/lib2.c 0 bc_lib2 bc_lib2_name "BC_ENABLED && BC_ENABLE_EXTRA_MATH" 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/lib2.o -c gen/lib2.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/args.o -c ./src/args.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc.o -c ./src/bc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc_lex.o -c ./src/bc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc_parse.o -c ./src/bc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/data.o -c ./src/data.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc.o -c ./src/dc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc_lex.o -c ./src/dc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc_parse.o -c ./src/dc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/file.o -c ./src/file.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/history.o -c ./src/history.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/lang.o -c ./src/lang.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/lex.o -c ./src/lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/main.o -c ./src/main.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/num.o -c ./src/num.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/opt.o -c ./src/opt.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/parse.o -c ./src/parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/program.o -c ./src/program.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/rand.o -c ./src/rand.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/read.o -c ./src/read.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/vector.o -c ./src/vector.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/vm.o -c ./src/vm.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 ./gen/dc_help.o ./gen/bc_help.o ./gen/lib.o ./gen/lib2.o src/args.o src/bc.o src/bc_lex.o src/bc_parse.o src/data.o src/dc.o src/dc_lex.o src/dc_parse.o src/file.o src/history.o src/lang.o src/lex.o src/main.o src/num.o src/opt.o src/parse.o src/program.o src/rand.o src/read.o src/vector.o src/vm.o -s  -lreadline -o bin/bc
+./scripts/link.sh bin dc
+./scripts/locale_install.sh /usr/share/locale/%L/%N bc /tmp/choccynix
+Installing de_DE.UTF-8...done
+Installing es_ES.UTF-8...done
+Installing fr_FR.UTF-8...done
+Installing ja_JP.UTF-8...done
+Installing nl_NL.UTF-8...done
+Installing pl_PL.UTF-8...done
+Installing pt_PT.UTF-8...done
+Installing ru_RU.CP1251...done
+Installing ru_RU.KOI8-R...done
+Installing ru_RU.UTF-8...done
+Installing zh_CN.GB18030...done
+Installing zh_CN.GB2312...done
+Installing zh_CN.GBK...done
+Installing zh_CN.UTF-8...done
+Linking de_AT.UTF-8...done
+Linking de_CH.UTF-8...done
+Linking en_AU.UTF-8...done
+Linking en_CA.UTF-8...done
+Linking en_GB.UTF-8...done
+Linking en_IE.UTF-8...done
+Linking en_NZ.UTF-8...done
+Linking en_US.UTF-8...done
+Linking fr_BE.UTF-8...done
+Linking fr_CA.UTF-8...done
+Linking fr_CH.UTF-8...done
+Linking pt_BR.UTF-8...done
+./scripts/safe-install.sh -Dm644 manuals/bc.1 /tmp/choccynix/usr/share/man/man1/bc.1
+./scripts/safe-install.sh -Dm644 manuals/dc.1 /tmp/choccynix/usr/share/man/man1/dc.1
+./scripts/exec-install.sh /tmp/choccynix/usr/bin "" "/home/liv/Projects/ChoccyNix/autotar/bc-7.0.3/bin"
+bc-7.0.3/
+bc-7.0.3/scripts/
+bc-7.0.3/scripts/sqrt_random.bc
+bc-7.0.3/scripts/locale_uninstall.sh
+bc-7.0.3/scripts/sqrt_int_guess.bc
+bc-7.0.3/scripts/safe-install.sh
+bc-7.0.3/scripts/lint.sh
+bc-7.0.3/scripts/locale_install.sh
+bc-7.0.3/scripts/link.sh
+bc-7.0.3/scripts/functions.sh
+bc-7.0.3/scripts/format.sh
+bc-7.0.3/scripts/exec-install.sh
+bc-7.0.3/scripts/sqrt_frac_guess.bc
+bc-7.0.3/scripts/os.c
+bc-7.0.3/scripts/sqrt_random.sh
+bc-7.0.3/scripts/karatsuba.py
+bc-7.0.3/NEWS.md
+bc-7.0.3/configure.sh
+bc-7.0.3/include/
+bc-7.0.3/include/status.h
+bc-7.0.3/include/vm.h
+bc-7.0.3/include/lang.h
+bc-7.0.3/include/library.h
+bc-7.0.3/include/program.h
+bc-7.0.3/include/parse.h
+bc-7.0.3/include/ossfuzz.h
+bc-7.0.3/include/file.h
+bc-7.0.3/include/num.h
+bc-7.0.3/include/vector.h
+bc-7.0.3/include/lex.h
+bc-7.0.3/include/bcl.h
+bc-7.0.3/include/version.h
+bc-7.0.3/include/read.h
+bc-7.0.3/include/dc.h
+bc-7.0.3/include/rand.h
+bc-7.0.3/include/history.h
+bc-7.0.3/include/opt.h
+bc-7.0.3/include/args.h
+bc-7.0.3/include/bc.h
+bc-7.0.3/vs/
+bc-7.0.3/vs/bc.vcxproj.filters
+bc-7.0.3/vs/bcl.vcxproj
+bc-7.0.3/vs/bc.vcxproj
+bc-7.0.3/vs/bcl.vcxproj.filters
+bc-7.0.3/vs/tests/
+bc-7.0.3/vs/tests/tests_bc.bat
+bc-7.0.3/vs/tests/tests_dc.bat
+bc-7.0.3/vs/bcl.sln
+bc-7.0.3/vs/bc.sln
+bc-7.0.3/manuals/
+bc-7.0.3/manuals/bcl.3
+bc-7.0.3/manuals/bcl.3.md
+bc-7.0.3/manuals/dc/
+bc-7.0.3/manuals/dc/A.1.md
+bc-7.0.3/manuals/dc/E.1.md
+bc-7.0.3/manuals/dc/EH.1.md
+bc-7.0.3/manuals/dc/EHN.1.md
+bc-7.0.3/manuals/dc/H.1
+bc-7.0.3/manuals/dc/EH.1
+bc-7.0.3/manuals/dc/E.1
+bc-7.0.3/manuals/dc/HN.1.md
+bc-7.0.3/manuals/dc/EN.1
+bc-7.0.3/manuals/dc/N.1
+bc-7.0.3/manuals/dc/HN.1
+bc-7.0.3/manuals/dc/N.1.md
+bc-7.0.3/manuals/dc/H.1.md
+bc-7.0.3/manuals/dc/EHN.1
+bc-7.0.3/manuals/dc/A.1
+bc-7.0.3/manuals/dc/EN.1.md
+bc-7.0.3/manuals/build.md
+bc-7.0.3/manuals/algorithms.md
+bc-7.0.3/manuals/bc/
+bc-7.0.3/manuals/bc/A.1.md
+bc-7.0.3/manuals/bc/E.1.md
+bc-7.0.3/manuals/bc/EH.1.md
+bc-7.0.3/manuals/bc/EHN.1.md
+bc-7.0.3/manuals/bc/H.1
+bc-7.0.3/manuals/bc/EH.1
+bc-7.0.3/manuals/bc/E.1
+bc-7.0.3/manuals/bc/HN.1.md
+bc-7.0.3/manuals/bc/EN.1
+bc-7.0.3/manuals/bc/N.1
+bc-7.0.3/manuals/bc/HN.1
+bc-7.0.3/manuals/bc/N.1.md
+bc-7.0.3/manuals/bc/H.1.md
+bc-7.0.3/manuals/bc/EHN.1
+bc-7.0.3/manuals/bc/A.1
+bc-7.0.3/manuals/bc/EN.1.md
+bc-7.0.3/gen/
+bc-7.0.3/gen/lib2.bc
+bc-7.0.3/gen/bc_help.txt
+bc-7.0.3/gen/strgen.c
+bc-7.0.3/gen/lib.bc
+bc-7.0.3/gen/strgen.sh
+bc-7.0.3/gen/dc_help.txt
+bc-7.0.3/NOTICE.md
+bc-7.0.3/MEMORY_BUGS.md
+bc-7.0.3/Makefile.in
+bc-7.0.3/configure
+bc-7.0.3/LICENSE.md
+bc-7.0.3/compile_flags.txt
+bc-7.0.3/tests/
+bc-7.0.3/tests/test.sh
+bc-7.0.3/tests/bcl.c
+bc-7.0.3/tests/scripts.sh
+bc-7.0.3/tests/all.sh
+bc-7.0.3/tests/script.sed
+bc-7.0.3/tests/history.sh
+bc-7.0.3/tests/all.txt
+bc-7.0.3/tests/stdin.sh
+bc-7.0.3/tests/extra_required.txt
+bc-7.0.3/tests/errors.sh
+bc-7.0.3/tests/history.py
+bc-7.0.3/tests/error.sh
+bc-7.0.3/tests/dc/
+bc-7.0.3/tests/dc/multiply_results.txt
+bc-7.0.3/tests/dc/negate.txt
+bc-7.0.3/tests/dc/scripts/
+bc-7.0.3/tests/dc/scripts/asciify.txt
+bc-7.0.3/tests/dc/scripts/prime.dc
+bc-7.0.3/tests/dc/scripts/loop.txt
+bc-7.0.3/tests/dc/scripts/all.txt
+bc-7.0.3/tests/dc/scripts/easter.sh
+bc-7.0.3/tests/dc/scripts/array.dc
+bc-7.0.3/tests/dc/scripts/asciify.dc
+bc-7.0.3/tests/dc/scripts/quit.txt
+bc-7.0.3/tests/dc/scripts/weird.dc
+bc-7.0.3/tests/dc/scripts/quit.dc
+bc-7.0.3/tests/dc/scripts/no_clamp.txt
+bc-7.0.3/tests/dc/scripts/stream.dc
+bc-7.0.3/tests/dc/scripts/else.txt
+bc-7.0.3/tests/dc/scripts/factorial.dc
+bc-7.0.3/tests/dc/scripts/loop.dc
+bc-7.0.3/tests/dc/scripts/weird.txt
+bc-7.0.3/tests/dc/scripts/no_clamp.dc
+bc-7.0.3/tests/dc/scripts/else.dc
+bc-7.0.3/tests/dc/scripts/stream.txt
+bc-7.0.3/tests/dc/scripts/array.txt
+bc-7.0.3/tests/dc/scripts/factorial.txt
+bc-7.0.3/tests/dc/divide_results.txt
+bc-7.0.3/tests/dc/read_errors.txt
+bc-7.0.3/tests/dc/errors.txt
+bc-7.0.3/tests/dc/add_results.txt
+bc-7.0.3/tests/dc/engineering_results.txt
+bc-7.0.3/tests/dc/subtract_results.txt
+bc-7.0.3/tests/dc/engineering.txt
+bc-7.0.3/tests/dc/places_results.txt
+bc-7.0.3/tests/dc/trunc_results.txt
+bc-7.0.3/tests/dc/misc1.txt
+bc-7.0.3/tests/dc/stack_len_results.txt
+bc-7.0.3/tests/dc/is_string_results.txt
+bc-7.0.3/tests/dc/strings.txt
+bc-7.0.3/tests/dc/vars_results.txt
+bc-7.0.3/tests/dc/length.txt
+bc-7.0.3/tests/dc/is_string.txt
+bc-7.0.3/tests/dc/abs_results.txt
+bc-7.0.3/tests/dc/misc_results.txt
+bc-7.0.3/tests/dc/negate_results.txt
+bc-7.0.3/tests/dc/sqrt.txt
+bc-7.0.3/tests/dc/all.txt
+bc-7.0.3/tests/dc/stdin_results.txt
+bc-7.0.3/tests/dc/length_results.txt
+bc-7.0.3/tests/dc/subtract.txt
+bc-7.0.3/tests/dc/multiply.txt
+bc-7.0.3/tests/dc/abs.txt
+bc-7.0.3/tests/dc/stdin.txt
+bc-7.0.3/tests/dc/is_number_results.txt
+bc-7.0.3/tests/dc/divmod_results.txt
+bc-7.0.3/tests/dc/vars.txt
+bc-7.0.3/tests/dc/exec_stack_len_results.txt
+bc-7.0.3/tests/dc/power_results.txt
+bc-7.0.3/tests/dc/rand_results.txt
+bc-7.0.3/tests/dc/shift.txt
+bc-7.0.3/tests/dc/decimal.txt
+bc-7.0.3/tests/dc/errors/
+bc-7.0.3/tests/dc/errors/26.txt
+bc-7.0.3/tests/dc/errors/25.txt
+bc-7.0.3/tests/dc/errors/27.txt
+bc-7.0.3/tests/dc/errors/16.txt
+bc-7.0.3/tests/dc/errors/01.txt
+bc-7.0.3/tests/dc/errors/24.txt
+bc-7.0.3/tests/dc/errors/05.txt
+bc-7.0.3/tests/dc/errors/06.txt
+bc-7.0.3/tests/dc/errors/22.txt
+bc-7.0.3/tests/dc/errors/13.txt
+bc-7.0.3/tests/dc/errors/03.txt
+bc-7.0.3/tests/dc/errors/11.txt
+bc-7.0.3/tests/dc/errors/15.txt
+bc-7.0.3/tests/dc/errors/21.txt
+bc-7.0.3/tests/dc/errors/08.txt
+bc-7.0.3/tests/dc/errors/32.txt
+bc-7.0.3/tests/dc/errors/18.txt
+bc-7.0.3/tests/dc/errors/30.txt
+bc-7.0.3/tests/dc/errors/17.txt
+bc-7.0.3/tests/dc/errors/33.txt
+bc-7.0.3/tests/dc/errors/12.txt
+bc-7.0.3/tests/dc/errors/28.txt
+bc-7.0.3/tests/dc/errors/23.txt
+bc-7.0.3/tests/dc/errors/31.txt
+bc-7.0.3/tests/dc/errors/19.txt
+bc-7.0.3/tests/dc/errors/02.txt
+bc-7.0.3/tests/dc/errors/07.txt
+bc-7.0.3/tests/dc/errors/04.txt
+bc-7.0.3/tests/dc/errors/20.txt
+bc-7.0.3/tests/dc/errors/14.txt
+bc-7.0.3/tests/dc/errors/10.txt
+bc-7.0.3/tests/dc/errors/09.txt
+bc-7.0.3/tests/dc/errors/29.txt
+bc-7.0.3/tests/dc/strings_results.txt
+bc-7.0.3/tests/dc/sqrt_results.txt
+bc-7.0.3/tests/dc/exec_stack_len.txt
+bc-7.0.3/tests/dc/misc1_results.txt
+bc-7.0.3/tests/dc/places.txt
+bc-7.0.3/tests/dc/read_results.txt
+bc-7.0.3/tests/dc/modulus.txt
+bc-7.0.3/tests/dc/modexp_results.txt
+bc-7.0.3/tests/dc/is_number.txt
+bc-7.0.3/tests/dc/read.txt
+bc-7.0.3/tests/dc/modulus_results.txt
+bc-7.0.3/tests/dc/divmod.txt
+bc-7.0.3/tests/dc/divide.txt
+bc-7.0.3/tests/dc/rand.txt
+bc-7.0.3/tests/dc/power.txt
+bc-7.0.3/tests/dc/scientific.txt
+bc-7.0.3/tests/dc/scientific_results.txt
+bc-7.0.3/tests/dc/decimal_results.txt
+bc-7.0.3/tests/dc/modexp.txt
+bc-7.0.3/tests/dc/boolean_results.txt
+bc-7.0.3/tests/dc/trunc.txt
+bc-7.0.3/tests/dc/misc.txt
+bc-7.0.3/tests/dc/add.txt
+bc-7.0.3/tests/dc/stack_len.txt
+bc-7.0.3/tests/dc/boolean.txt
+bc-7.0.3/tests/dc/shift_results.txt
+bc-7.0.3/tests/other.sh
+bc-7.0.3/tests/read.sh
+bc-7.0.3/tests/script.sh
+bc-7.0.3/tests/bc/
+bc-7.0.3/tests/bc/multiply_results.txt
+bc-7.0.3/tests/bc/scripts/
+bc-7.0.3/tests/bc/scripts/bessel.bc
+bc-7.0.3/tests/bc/scripts/screen.txt
+bc-7.0.3/tests/bc/scripts/i2rand.txt
+bc-7.0.3/tests/bc/scripts/references.bc
+bc-7.0.3/tests/bc/scripts/array2.txt
+bc-7.0.3/tests/bc/scripts/screen.bc
+bc-7.0.3/tests/bc/scripts/globals.bc
+bc-7.0.3/tests/bc/scripts/atan.txt
+bc-7.0.3/tests/bc/scripts/add.bc
+bc-7.0.3/tests/bc/scripts/ifs.bc
+bc-7.0.3/tests/bc/scripts/ifs.txt
+bc-7.0.3/tests/bc/scripts/atan.bc
+bc-7.0.3/tests/bc/scripts/strings2.bc
+bc-7.0.3/tests/bc/scripts/root.txt
+bc-7.0.3/tests/bc/scripts/all.txt
+bc-7.0.3/tests/bc/scripts/i2rand.bc
+bc-7.0.3/tests/bc/scripts/subtract.bc
+bc-7.0.3/tests/bc/scripts/cbrt.txt
+bc-7.0.3/tests/bc/scripts/print2.txt
+bc-7.0.3/tests/bc/scripts/afl1.txt
+bc-7.0.3/tests/bc/scripts/multiply.bc
+bc-7.0.3/tests/bc/scripts/array.bc
+bc-7.0.3/tests/bc/scripts/array2.bc
+bc-7.0.3/tests/bc/scripts/root.bc
+bc-7.0.3/tests/bc/scripts/references.txt
+bc-7.0.3/tests/bc/scripts/functions.bc
+bc-7.0.3/tests/bc/scripts/divide.bc
+bc-7.0.3/tests/bc/scripts/print2.bc
+bc-7.0.3/tests/bc/scripts/globals.txt
+bc-7.0.3/tests/bc/scripts/len.bc
+bc-7.0.3/tests/bc/scripts/functions.txt
+bc-7.0.3/tests/bc/scripts/len.txt
+bc-7.0.3/tests/bc/scripts/ifs2.txt
+bc-7.0.3/tests/bc/scripts/rand.bc
+bc-7.0.3/tests/bc/scripts/rand.txt
+bc-7.0.3/tests/bc/scripts/ifs2.bc
+bc-7.0.3/tests/bc/scripts/parse.bc
+bc-7.0.3/tests/bc/scripts/array.txt
+bc-7.0.3/tests/bc/scripts/afl1.bc
+bc-7.0.3/tests/bc/scripts/print.bc
+bc-7.0.3/tests/bc/line_by_line1.txt
+bc-7.0.3/tests/bc/divide_results.txt
+bc-7.0.3/tests/bc/void.txt
+bc-7.0.3/tests/bc/read_errors.txt
+bc-7.0.3/tests/bc/asciify_array_results.txt
+bc-7.0.3/tests/bc/errors.txt
+bc-7.0.3/tests/bc/add_results.txt
+bc-7.0.3/tests/bc/arrays_results.txt
+bc-7.0.3/tests/bc/fib.txt
+bc-7.0.3/tests/bc/arrays.txt
+bc-7.0.3/tests/bc/log_results.txt
+bc-7.0.3/tests/bc/assignments_results.txt
+bc-7.0.3/tests/bc/engineering_results.txt
+bc-7.0.3/tests/bc/subtract_results.txt
+bc-7.0.3/tests/bc/engineering.txt
+bc-7.0.3/tests/bc/line_loop_quit1_results.txt
+bc-7.0.3/tests/bc/misc5_results.txt
+bc-7.0.3/tests/bc/exponent.txt
+bc-7.0.3/tests/bc/places_results.txt
+bc-7.0.3/tests/bc/trunc_results.txt
+bc-7.0.3/tests/bc/line_by_line2_results.txt
+bc-7.0.3/tests/bc/misc1.txt
+bc-7.0.3/tests/bc/is_string_results.txt
+bc-7.0.3/tests/bc/misc2_results.txt
+bc-7.0.3/tests/bc/strings.txt
+bc-7.0.3/tests/bc/vars_results.txt
+bc-7.0.3/tests/bc/line_by_line1_results.txt
+bc-7.0.3/tests/bc/length.txt
+bc-7.0.3/tests/bc/is_string.txt
+bc-7.0.3/tests/bc/abs_results.txt
+bc-7.0.3/tests/bc/misc_results.txt
+bc-7.0.3/tests/bc/pi.txt
+bc-7.0.3/tests/bc/sqrt.txt
+bc-7.0.3/tests/bc/all.txt
+bc-7.0.3/tests/bc/stdin_results.txt
+bc-7.0.3/tests/bc/assignments.txt
+bc-7.0.3/tests/bc/length_results.txt
+bc-7.0.3/tests/bc/subtract.txt
+bc-7.0.3/tests/bc/cosine.txt
+bc-7.0.3/tests/bc/misc3_results.txt
+bc-7.0.3/tests/bc/multiply.txt
+bc-7.0.3/tests/bc/misc5.txt
+bc-7.0.3/tests/bc/abs.txt
+bc-7.0.3/tests/bc/rand_limits.txt
+bc-7.0.3/tests/bc/stdin.txt
+bc-7.0.3/tests/bc/print2.txt
+bc-7.0.3/tests/bc/is_number_results.txt
+bc-7.0.3/tests/bc/divmod_results.txt
+bc-7.0.3/tests/bc/vars.txt
+bc-7.0.3/tests/bc/misc4_results.txt
+bc-7.0.3/tests/bc/leadingzero_results.txt
+bc-7.0.3/tests/bc/recursive_arrays.txt
+bc-7.0.3/tests/bc/asciify_array.txt
+bc-7.0.3/tests/bc/lib2_results.txt
+bc-7.0.3/tests/bc/log.txt
+bc-7.0.3/tests/bc/misc6_results.txt
+bc-7.0.3/tests/bc/lib2.txt
+bc-7.0.3/tests/bc/arctangent.txt
+bc-7.0.3/tests/bc/fib_results.txt
+bc-7.0.3/tests/bc/misc8_results.txt
+bc-7.0.3/tests/bc/power_results.txt
+bc-7.0.3/tests/bc/bitfuncs_results.txt
+bc-7.0.3/tests/bc/arctangent_results.txt
+bc-7.0.3/tests/bc/misc2.txt
+bc-7.0.3/tests/bc/sine_results.txt
+bc-7.0.3/tests/bc/misc6.txt
+bc-7.0.3/tests/bc/scale.txt
+bc-7.0.3/tests/bc/pi_results.txt
+bc-7.0.3/tests/bc/rand_results.txt
+bc-7.0.3/tests/bc/shift.txt
+bc-7.0.3/tests/bc/scale_results.txt
+bc-7.0.3/tests/bc/functions_results.txt
+bc-7.0.3/tests/bc/decimal.txt
+bc-7.0.3/tests/bc/errors/
+bc-7.0.3/tests/bc/errors/26.txt
+bc-7.0.3/tests/bc/errors/25.txt
+bc-7.0.3/tests/bc/errors/27.txt
+bc-7.0.3/tests/bc/errors/16.txt
+bc-7.0.3/tests/bc/errors/01.txt
+bc-7.0.3/tests/bc/errors/24.txt
+bc-7.0.3/tests/bc/errors/05.txt
+bc-7.0.3/tests/bc/errors/06.txt
+bc-7.0.3/tests/bc/errors/37.txt
+bc-7.0.3/tests/bc/errors/22.txt
+bc-7.0.3/tests/bc/errors/13.txt
+bc-7.0.3/tests/bc/errors/03.txt
+bc-7.0.3/tests/bc/errors/11.txt
+bc-7.0.3/tests/bc/errors/15.txt
+bc-7.0.3/tests/bc/errors/38.txt
+bc-7.0.3/tests/bc/errors/21.txt
+bc-7.0.3/tests/bc/errors/08.txt
+bc-7.0.3/tests/bc/errors/32.txt
+bc-7.0.3/tests/bc/errors/18.txt
+bc-7.0.3/tests/bc/errors/35.txt
+bc-7.0.3/tests/bc/errors/30.txt
+bc-7.0.3/tests/bc/errors/17.txt
+bc-7.0.3/tests/bc/errors/33.txt
+bc-7.0.3/tests/bc/errors/12.txt
+bc-7.0.3/tests/bc/errors/28.txt
+bc-7.0.3/tests/bc/errors/23.txt
+bc-7.0.3/tests/bc/errors/31.txt
+bc-7.0.3/tests/bc/errors/19.txt
+bc-7.0.3/tests/bc/errors/02.txt
+bc-7.0.3/tests/bc/errors/07.txt
+bc-7.0.3/tests/bc/errors/34.txt
+bc-7.0.3/tests/bc/errors/04.txt
+bc-7.0.3/tests/bc/errors/36.txt
+bc-7.0.3/tests/bc/errors/20.txt
+bc-7.0.3/tests/bc/errors/14.txt
+bc-7.0.3/tests/bc/errors/10.txt
+bc-7.0.3/tests/bc/errors/09.txt
+bc-7.0.3/tests/bc/errors/29.txt
+bc-7.0.3/tests/bc/strings_results.txt
+bc-7.0.3/tests/bc/sqrt_results.txt
+bc-7.0.3/tests/bc/stdin1_results.txt
+bc-7.0.3/tests/bc/misc1_results.txt
+bc-7.0.3/tests/bc/misc4.txt
+bc-7.0.3/tests/bc/places.txt
+bc-7.0.3/tests/bc/rand_limits_results.txt
+bc-7.0.3/tests/bc/line_loop_quit2.txt
+bc-7.0.3/tests/bc/timeconst.sh
+bc-7.0.3/tests/bc/read_results.txt
+bc-7.0.3/tests/bc/misc8.txt
+bc-7.0.3/tests/bc/letters_results.txt
+bc-7.0.3/tests/bc/sine.txt
+bc-7.0.3/tests/bc/cosine_results.txt
+bc-7.0.3/tests/bc/modulus.txt
+bc-7.0.3/tests/bc/comp_results.txt
+bc-7.0.3/tests/bc/globals.txt
+bc-7.0.3/tests/bc/exponent_results.txt
+bc-7.0.3/tests/bc/functions.txt
+bc-7.0.3/tests/bc/modexp_results.txt
+bc-7.0.3/tests/bc/stdin2.txt
+bc-7.0.3/tests/bc/stdin1.txt
+bc-7.0.3/tests/bc/is_number.txt
+bc-7.0.3/tests/bc/comp.txt
+bc-7.0.3/tests/bc/read.txt
+bc-7.0.3/tests/bc/modulus_results.txt
+bc-7.0.3/tests/bc/bitfuncs.txt
+bc-7.0.3/tests/bc/divmod.txt
+bc-7.0.3/tests/bc/misc7_results.txt
+bc-7.0.3/tests/bc/divide.txt
+bc-7.0.3/tests/bc/print2_results.txt
+bc-7.0.3/tests/bc/rand.txt
+bc-7.0.3/tests/bc/power.txt
+bc-7.0.3/tests/bc/misc7.txt
+bc-7.0.3/tests/bc/line_loop_quit2_results.txt
+bc-7.0.3/tests/bc/scientific.txt
+bc-7.0.3/tests/bc/scientific_results.txt
+bc-7.0.3/tests/bc/line_loop_quit1.txt
+bc-7.0.3/tests/bc/posix_errors.txt
+bc-7.0.3/tests/bc/decimal_results.txt
+bc-7.0.3/tests/bc/modexp.txt
+bc-7.0.3/tests/bc/boolean_results.txt
+bc-7.0.3/tests/bc/trunc.txt
+bc-7.0.3/tests/bc/misc.txt
+bc-7.0.3/tests/bc/add.txt
+bc-7.0.3/tests/bc/globals_results.txt
+bc-7.0.3/tests/bc/recursive_arrays_results.txt
+bc-7.0.3/tests/bc/boolean.txt
+bc-7.0.3/tests/bc/stdin2_results.txt
+bc-7.0.3/tests/bc/leadingzero.txt
+bc-7.0.3/tests/bc/letters.txt
+bc-7.0.3/tests/bc/void_results.txt
+bc-7.0.3/tests/bc/misc3.txt
+bc-7.0.3/tests/bc/shift_results.txt
+bc-7.0.3/tests/bc/line_by_line2.txt
+bc-7.0.3/bcl.pc.in
+bc-7.0.3/locales/
+bc-7.0.3/locales/nl_NL.UTF-8.msg
+bc-7.0.3/locales/en_CA.US-ASCII.msg
+bc-7.0.3/locales/en_US.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.ISO8859-15.msg
+bc-7.0.3/locales/en_CA.utf8.msg
+bc-7.0.3/locales/fr_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.utf8.msg
+bc-7.0.3/locales/ja_JP.eucJP.msg
+bc-7.0.3/locales/en_AU.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.utf8.msg
+bc-7.0.3/locales/en_GB.US-ASCII.msg
+bc-7.0.3/locales/fr_BE.utf8.msg
+bc-7.0.3/locales/zh_CN.UTF-8.msg
+bc-7.0.3/locales/en_NZ.US-ASCII.msg
+bc-7.0.3/locales/fr_FR.ISO8859-15.msg
+bc-7.0.3/locales/fr_CA.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB2312.msg
+bc-7.0.3/locales/ru_RU.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-1.msg
+bc-7.0.3/locales/fr_FR.utf8.msg
+bc-7.0.3/locales/en_AU.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GB18030.msg
+bc-7.0.3/locales/pt_PT.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.UTF-8.msg
+bc-7.0.3/locales/pt_BR.ISO8859-15.msg
+bc-7.0.3/locales/ru_RU.CP866.msg
+bc-7.0.3/locales/pl_PL.ISO8859-2.msg
+bc-7.0.3/locales/en_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_NZ.UTF-8.msg
+bc-7.0.3/locales/es_ES.ISO8859-1.msg
+bc-7.0.3/locales/ru_RU.ISO8859-5.msg
+bc-7.0.3/locales/pl_PL.utf8.msg
+bc-7.0.3/locales/pt_PT.utf8.msg
+bc-7.0.3/locales/pt_BR.UTF-8.msg
+bc-7.0.3/locales/pt_PT.ISO8859-15.msg
+bc-7.0.3/locales/de_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_GB.UTF-8.msg
+bc-7.0.3/locales/ru_RU.utf8.msg
+bc-7.0.3/locales/ja_JP.utf8.msg
+bc-7.0.3/locales/en_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-1.msg
+bc-7.0.3/locales/en_GB.ISO8859-15.msg
+bc-7.0.3/locales/pt_PT.UTF-8.msg
+bc-7.0.3/locales/zh_CN.GBK.msg
+bc-7.0.3/locales/de_DE.UTF-8.msg
+bc-7.0.3/locales/fr_CA.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-15.msg
+bc-7.0.3/locales/es_ES.utf8.msg
+bc-7.0.3/locales/pt_BR.utf8.msg
+bc-7.0.3/locales/de_DE.utf8.msg
+bc-7.0.3/locales/fr_CA.utf8.msg
+bc-7.0.3/locales/es_ES.UTF-8.msg
+bc-7.0.3/locales/en_CA.UTF-8.msg
+bc-7.0.3/locales/en_US.msg
+bc-7.0.3/locales/zh_CN.eucCN.msg
+bc-7.0.3/locales/fr_CH.UTF-8.msg
+bc-7.0.3/locales/en_NZ.ISO8859-1.msg
+bc-7.0.3/locales/fr_CH.ISO8859-15.msg
+bc-7.0.3/locales/en_US.UTF-8.msg
+bc-7.0.3/locales/en_US.US-ASCII.msg
+bc-7.0.3/locales/en_IE.US_ASCII.msg
+bc-7.0.3/locales/nl_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_BE.ISO8859-1.msg
+bc-7.0.3/locales/nl_NL.ISO8859-1.msg
+bc-7.0.3/locales/de_AT.utf8.msg
+bc-7.0.3/locales/zh_CN.utf8.msg
+bc-7.0.3/locales/ru_RU.KOI8-R.msg
+bc-7.0.3/locales/fr_BE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-15.msg
+bc-7.0.3/locales/de_DE.ISO8859-1.msg
+bc-7.0.3/locales/en_US.utf8.msg
+bc-7.0.3/locales/en_AU.utf8.msg
+bc-7.0.3/locales/nl_NL.utf8.msg
+bc-7.0.3/locales/ja_JP.UTF-8.msg
+bc-7.0.3/locales/ru_RU.CP1251.msg
+bc-7.0.3/locales/fr_FR.ISO8859-1.msg
+bc-7.0.3/locales/en_IE.ISO8859-1.msg
+bc-7.0.3/locales/en_AU.US-ASCII.msg
+bc-7.0.3/locales/fr_CA.ISO8859-15.msg
+bc-7.0.3/locales/en_US.US_ASCII.msg
+bc-7.0.3/locales/de_CH.UTF-8.msg
+bc-7.0.3/locales/de_AT.ISO8859-1.msg
+bc-7.0.3/locales/de_CH.ISO8859-1.msg
+bc-7.0.3/locales/en_NZ.utf8.msg
+bc-7.0.3/locales/fr_BE.UTF-8.msg
+bc-7.0.3/locales/pl_PL.UTF-8.msg
+bc-7.0.3/locales/fr_CH.utf8.msg
+bc-7.0.3/locales/fr_BE.ISO8859-15.msg
+bc-7.0.3/locales/nl_NL.ISO8859-15.msg
+bc-7.0.3/locales/en_IE.utf8.msg
+bc-7.0.3/src/
+bc-7.0.3/src/rand.c
+bc-7.0.3/src/lang.c
+bc-7.0.3/src/bc_parse.c
+bc-7.0.3/src/num.c
+bc-7.0.3/src/vector.c
+bc-7.0.3/src/main.c
+bc-7.0.3/src/opt.c
+bc-7.0.3/src/dc_fuzzer.c
+bc-7.0.3/src/data.c
+bc-7.0.3/src/vm.c
+bc-7.0.3/src/history.c
+bc-7.0.3/src/read.c
+bc-7.0.3/src/bc_lex.c
+bc-7.0.3/src/dc.c
+bc-7.0.3/src/program.c
+bc-7.0.3/src/parse.c
+bc-7.0.3/src/dc_parse.c
+bc-7.0.3/src/library.c
+bc-7.0.3/src/bc_fuzzer.c
+bc-7.0.3/src/args.c
+bc-7.0.3/src/lex.c
+bc-7.0.3/src/dc_lex.c
+bc-7.0.3/src/bc.c
+bc-7.0.3/src/file.c
+bc-7.0.3/README.md
+Testing NLS...
+NLS works.
+
+Testing gencat...
+gencat works.
+
+Testing history...
+History works.
+
+Testing for FreeBSD...
+Not on FreeBSD. Using _POSIX_C_SOURCE and _XOPEN_SOURCE.
+
+Testing for macOS...
+Not on macOS.
+
+Testing for OpenBSD...
+Not on OpenBSD.
+
+unneeded: bc_fuzzer.c dc_fuzzer.c library.c
+Version: 7.0.3
+Building bc
+Building dc
+
+BC_ENABLE_LIBRARY=0
+
+BC_ENABLE_HISTORY=1
+BC_ENABLE_EXTRA_MATH=1
+BC_ENABLE_NLS=1
+
+BC_ENABLE_AFL=0
+
+BC_NUM_KARATSUBA_LEN=32
+
+CC=gcc
+CFLAGS=-O3  -std=c99
+HOSTCC=gcc
+HOSTCFLAGS= -std=c99
+CPPFLAGS=-DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700
+LDFLAGS=-s  -lreadline
+PREFIX=/usr
+BINDIR=/usr/bin
+INCLUDEDIR=/usr/include
+LIBDIR=/usr/lib
+DATAROOTDIR=/usr/share
+DATADIR=/usr/share
+MANDIR=/usr/share/man
+MAN1DIR=/usr/share/man/man1
+MAN3DIR=/usr/share/man/man3
+NLSPATH=/usr/share/locale/%L/%N
+PC_PATH=
+EXECSUFFIX=
+EXECPREFIX=
+DESTDIR=
+LONG_BIT=
+GEN_HOST=1
+GEN_EMU=
+
+Setting Defaults
+================
+bc.banner=0
+bc.sigint_reset=1
+dc.sigint_reset=1
+bc.tty_mode=1
+dc.tty_mode=0
+bc.prompt=1
+dc.prompt=0
+bc.expr_exit=1
+dc.expr_exit=1
+bc.digit_clamp=0
+dc.digit_clamp=0
+mkdir -p bin
+gcc -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -I./include/ -std=c99 -o ./gen/strgen ./gen/strgen.c
+./gen/strgen ./gen/dc_help.txt ./gen/dc_help.c 0 dc_help "" DC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/dc_help.o -c gen/dc_help.c
+./gen/strgen ./gen/bc_help.txt ./gen/bc_help.c 0 bc_help "" BC_ENABLED 0
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/bc_help.o -c gen/bc_help.c
+./gen/strgen ./gen/lib.bc ./gen/lib.c 0 bc_lib bc_lib_name BC_ENABLED 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/lib.o -c gen/lib.c
+./gen/strgen ./gen/lib2.bc ./gen/lib2.c 0 bc_lib2 bc_lib2_name "BC_ENABLED && BC_ENABLE_EXTRA_MATH" 1 "" "" 1
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o gen/lib2.o -c gen/lib2.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/args.o -c ./src/args.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc.o -c ./src/bc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc_lex.o -c ./src/bc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/bc_parse.o -c ./src/bc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/data.o -c ./src/data.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc.o -c ./src/dc.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc_lex.o -c ./src/dc_lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/dc_parse.o -c ./src/dc_parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/file.o -c ./src/file.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/history.o -c ./src/history.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/lang.o -c ./src/lang.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/lex.o -c ./src/lex.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/main.o -c ./src/main.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/num.o -c ./src/num.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/opt.o -c ./src/opt.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/parse.o -c ./src/parse.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/program.o -c ./src/program.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/rand.o -c ./src/rand.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/read.o -c ./src/read.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/vector.o -c ./src/vector.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 -o src/vm.o -c ./src/vm.c
+gcc -DBC_ENABLED=1 -DDC_ENABLED=1 -I./include/ -DBUILD_TYPE=A  -DEXECPREFIX= -DMAINEXEC=bc   -DBC_NUM_KARATSUBA_LEN=32 -DBC_ENABLE_NLS=1 -DBC_ENABLE_EXTRA_MATH=1 -DBC_ENABLE_HISTORY=1 -DBC_ENABLE_LIBRARY=0 -DBC_ENABLE_MEMCHECK=0 -DBC_ENABLE_AFL=0 -DBC_ENABLE_OSSFUZZ=0 -DBC_DEFAULT_BANNER=0 -DBC_DEFAULT_SIGINT_RESET=1 -DBC_DEFAULT_TTY_MODE=1 -DBC_DEFAULT_PROMPT=1 -DBC_DEFAULT_EXPR_EXIT=1 -DBC_DEFAULT_DIGIT_CLAMP=0 -DDC_DEFAULT_SIGINT_RESET=1 -DDC_DEFAULT_TTY_MODE=0 -DDC_DEFAULT_PROMPT=0 -DDC_DEFAULT_EXPR_EXIT=1 -DDC_DEFAULT_DIGIT_CLAMP=0 -DNDEBUG  -DBC_ENABLE_EDITLINE=0 -DBC_ENABLE_READLINE=1 -D_POSIX_C_SOURCE=200809L -D_XOPEN_SOURCE=700 -O3  -std=c99 ./gen/dc_help.o ./gen/bc_help.o ./gen/lib.o ./gen/lib2.o src/args.o src/bc.o src/bc_lex.o src/bc_parse.o src/data.o src/dc.o src/dc_lex.o src/dc_parse.o src/file.o src/history.o src/lang.o src/lex.o src/main.o src/num.o src/opt.o src/parse.o src/program.o src/rand.o src/read.o src/vector.o src/vm.o -s  -lreadline -o bin/bc
+./scripts/link.sh bin dc
+./scripts/locale_install.sh /usr/share/locale/%L/%N bc /tmp/choccynix
+Installing de_DE.UTF-8...done
+Installing es_ES.UTF-8...done
+Installing fr_FR.UTF-8...done
+Installing ja_JP.UTF-8...done
+Installing nl_NL.UTF-8...done
+Installing pl_PL.UTF-8...done
+Installing pt_PT.UTF-8...done
+Installing ru_RU.CP1251...done
+Installing ru_RU.KOI8-R...done
+Installing ru_RU.UTF-8...done
+Installing zh_CN.GB18030...done
+Installing zh_CN.GB2312...done
+Installing zh_CN.GBK...done
+Installing zh_CN.UTF-8...done
+Linking de_AT.UTF-8...done
+Linking de_CH.UTF-8...done
+Linking en_AU.UTF-8...done
+Linking en_CA.UTF-8...done
+Linking en_GB.UTF-8...done
+Linking en_IE.UTF-8...done
+Linking en_NZ.UTF-8...done
+Linking en_US.UTF-8...done
+Linking fr_BE.UTF-8...done
+Linking fr_CA.UTF-8...done
+Linking fr_CH.UTF-8...done
+Linking pt_BR.UTF-8...done
+./scripts/safe-install.sh -Dm644 manuals/bc.1 /tmp/choccynix/usr/share/man/man1/bc.1
+./scripts/safe-install.sh -Dm644 manuals/dc.1 /tmp/choccynix/usr/share/man/man1/dc.1
+./scripts/exec-install.sh /tmp/choccynix/usr/bin "" "/home/liv/Projects/ChoccyNix/autotar/bc-7.0.3/bin"

@@ -1,0 +1,213 @@
+bzip2-1.0.8/blocksort.c
+bzip2-1.0.8/huffman.c
+bzip2-1.0.8/crctable.c
+bzip2-1.0.8/randtable.c
+bzip2-1.0.8/compress.c
+bzip2-1.0.8/decompress.c
+bzip2-1.0.8/bzlib.c
+bzip2-1.0.8/bzip2.c
+bzip2-1.0.8/bzip2recover.c
+bzip2-1.0.8/bzlib.h
+bzip2-1.0.8/bzlib_private.h
+bzip2-1.0.8/Makefile
+bzip2-1.0.8/LICENSE
+bzip2-1.0.8/bzip2.1
+bzip2-1.0.8/bzip2.1.preformatted
+bzip2-1.0.8/bzip2.txt
+bzip2-1.0.8/words0
+bzip2-1.0.8/words1
+bzip2-1.0.8/words2
+bzip2-1.0.8/words3
+bzip2-1.0.8/sample1.ref
+bzip2-1.0.8/sample2.ref
+bzip2-1.0.8/sample3.ref
+bzip2-1.0.8/sample1.bz2
+bzip2-1.0.8/sample2.bz2
+bzip2-1.0.8/sample3.bz2
+bzip2-1.0.8/dlltest.c
+bzip2-1.0.8/manual.html
+bzip2-1.0.8/manual.pdf
+bzip2-1.0.8/manual.ps
+bzip2-1.0.8/README
+bzip2-1.0.8/README.COMPILATION.PROBLEMS
+bzip2-1.0.8/README.XML.STUFF
+bzip2-1.0.8/CHANGES
+bzip2-1.0.8/libbz2.def
+bzip2-1.0.8/libbz2.dsp
+bzip2-1.0.8/dlltest.dsp
+bzip2-1.0.8/makefile.msc
+bzip2-1.0.8/unzcrash.c
+bzip2-1.0.8/spewG.c
+bzip2-1.0.8/mk251.c
+bzip2-1.0.8/bzdiff
+bzip2-1.0.8/bzdiff.1
+bzip2-1.0.8/bzmore
+bzip2-1.0.8/bzmore.1
+bzip2-1.0.8/bzgrep
+bzip2-1.0.8/bzgrep.1
+bzip2-1.0.8/Makefile-libbz2_so
+bzip2-1.0.8/bz-common.xsl
+bzip2-1.0.8/bz-fo.xsl
+bzip2-1.0.8/bz-html.xsl
+bzip2-1.0.8/bzip.css
+bzip2-1.0.8/entities.xml
+bzip2-1.0.8/manual.xml
+bzip2-1.0.8/format.pl
+bzip2-1.0.8/xmlproc.sh
+rm -f *.o libbz2.a bzip2 bzip2recover \
+sample1.rb2 sample2.rb2 sample3.rb2 \
+sample1.tst sample2.tst sample3.tst
+gcc -fPIC -c blocksort.c
+gcc -fPIC -c huffman.c
+gcc -fPIC -c crctable.c
+gcc -fPIC -c randtable.c
+gcc -fPIC -c compress.c
+gcc -fPIC -c decompress.c
+gcc -fPIC -c bzlib.c
+gcc -shared -Wl,-soname -Wl,libbz2.so.1.0 -o libbz2.so.1.0.8 blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+gcc -fPIC -o bzip2-shared bzip2.c libbz2.so.1.0.8
+rm -f libbz2.so.1.0
+ln -s libbz2.so.1.0.8 libbz2.so.1.0
+rm -f *.o libbz2.a bzip2 bzip2recover \
+sample1.rb2 sample2.rb2 sample3.rb2 \
+sample1.tst sample2.tst sample3.tst
+gcc -fPIC -c huffman.c
+gcc -fPIC -c crctable.c
+
+If compilation produces errors, or a large number of warnings,
+please read README.COMPILATION.PROBLEMS -- you might be able to
+adjust the flags in this Makefile to improve matters.
+
+Also in README.COMPILATION.PROBLEMS are some hints that may help
+if your build produces an executable which is unable to correctly
+handle so-called 'large files' -- files of size 2GB or more.
+
+gcc -fPIC -c blocksort.c
+gcc -fPIC -c randtable.c
+gcc -fPIC -c compress.c
+gcc -fPIC -c decompress.c
+gcc -fPIC -c bzlib.c
+gcc -fPIC -c bzip2.c
+gcc -fPIC -c bzip2recover.c
+gcc -fPIC  -o bzip2recover bzip2recover.o
+rm -f libbz2.a
+ar cq libbz2.a blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+ranlib libbz2.a
+gcc -fPIC  -o bzip2 bzip2.o -L. -lbz2
+
+Doing 6 tests (3 compress, 3 uncompress) ...
+If there's a problem, things might stop at this point.
+ 
+./bzip2 -1  < sample1.ref > sample1.rb2
+./bzip2 -2  < sample2.ref > sample2.rb2
+./bzip2 -3  < sample3.ref > sample3.rb2
+./bzip2 -d  < sample1.bz2 > sample1.tst
+./bzip2 -d  < sample2.bz2 > sample2.tst
+./bzip2 -ds < sample3.bz2 > sample3.tst
+cmp sample1.bz2 sample1.rb2 
+cmp sample2.bz2 sample2.rb2
+cmp sample3.bz2 sample3.rb2
+cmp sample1.tst sample1.ref
+cmp sample2.tst sample2.ref
+cmp sample3.tst sample3.ref
+
+If you got this far and the 'cmp's didn't complain, it looks
+like you're in business.  
+
+To install in /usr/local/bin, /usr/local/lib, /usr/local/man and 
+/usr/local/include, type
+
+   make install
+
+To install somewhere else, eg, /xxx/yyy/{bin,lib,man,include}, type 
+
+   make install PREFIX=/xxx/yyy
+
+If you are (justifiably) paranoid and want to see what 'make install'
+is going to do, you can first do
+
+   make -n install                      or
+   make -n install PREFIX=/xxx/yyy      respectively.
+
+The -n instructs make to show the commands it would execute, but
+not actually execute them.
+
+Instructions for use are in the preformatted manual page, in the file
+bzip2.txt.  For more detailed documentation, read the full manual.  
+It is available in Postscript form (manual.ps), PDF form (manual.pdf),
+and HTML form (manual.html).
+
+You can also do "bzip2 --help" to see some helpful information. 
+"bzip2 -L" displays the software license.
+
+if ( test ! -d /tmp/choccynix/usr/bin ) ; then mkdir -p /tmp/choccynix/usr/bin ; fi
+if ( test ! -d /tmp/choccynix/usr/lib ) ; then mkdir -p /tmp/choccynix/usr/lib ; fi
+if ( test ! -d /tmp/choccynix/usr/share/man ) ; then mkdir -p /tmp/choccynix/usr/share/man ; fi
+if ( test ! -d /tmp/choccynix/usr/share/man/man1 ) ; then mkdir -p /tmp/choccynix/usr/share/man/man1 ; fi
+if ( test ! -d /tmp/choccynix/usr/include ) ; then mkdir -p /tmp/choccynix/usr/include ; fi
+cp -f bzip2 /tmp/choccynix/usr/bin/bzip2
+cp -f bzip2 /tmp/choccynix/usr/bin/bunzip2
+cp -f bzip2 /tmp/choccynix/usr/bin/bzcat
+cp -f bzip2recover /tmp/choccynix/usr/bin/bzip2recover
+chmod a+x /tmp/choccynix/usr/bin/bzip2
+chmod a+x /tmp/choccynix/usr/bin/bunzip2
+chmod a+x /tmp/choccynix/usr/bin/bzcat
+chmod a+x /tmp/choccynix/usr/bin/bzip2recover
+cp -f bzip2.1 /tmp/choccynix/usr/share/man/man1
+chmod a+r /tmp/choccynix/usr/share/man/man1/bzip2.1
+cp -f bzlib.h /tmp/choccynix/usr/include
+chmod a+r /tmp/choccynix/usr/include/bzlib.h
+cp -f libbz2.a /tmp/choccynix/usr/lib
+chmod a+r /tmp/choccynix/usr/lib/libbz2.a
+cp -f bzgrep /tmp/choccynix/usr/bin/bzgrep
+ln -s -f bzgrep /tmp/choccynix/usr/bin/bzegrep
+ln -s -f bzgrep /tmp/choccynix/usr/bin/bzfgrep
+chmod a+x /tmp/choccynix/usr/bin/bzgrep
+cp -f bzmore /tmp/choccynix/usr/bin/bzmore
+ln -s -f bzmore /tmp/choccynix/usr/bin/bzless
+chmod a+x /tmp/choccynix/usr/bin/bzmore
+cp -f bzdiff /tmp/choccynix/usr/bin/bzdiff
+ln -s -f bzdiff /tmp/choccynix/usr/bin/bzcmp
+chmod a+x /tmp/choccynix/usr/bin/bzdiff
+cp -f bzgrep.1 bzmore.1 bzdiff.1 /tmp/choccynix/usr/share/man/man1
+chmod a+r /tmp/choccynix/usr/share/man/man1/bzgrep.1
+chmod a+r /tmp/choccynix/usr/share/man/man1/bzmore.1
+chmod a+r /tmp/choccynix/usr/share/man/man1/bzdiff.1
+echo ".so man1/bzgrep.1" > /tmp/choccynix/usr/share/man/man1/bzegrep.1
+echo ".so man1/bzgrep.1" > /tmp/choccynix/usr/share/man/man1/bzfgrep.1
+echo ".so man1/bzmore.1" > /tmp/choccynix/usr/share/man/man1/bzless.1
+echo ".so man1/bzdiff.1" > /tmp/choccynix/usr/share/man/man1/bzcmp.1
+rm -f *.o libbz2.a bzip2 bzip2recover \
+sample1.rb2 sample2.rb2 sample3.rb2 \
+sample1.tst sample2.tst sample3.tst
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c blocksort.c
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c huffman.c
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c crctable.c
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c randtable.c
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c compress.c
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c decompress.c
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c bzlib.c
+gcc -m32 -shared -Wl,-soname -Wl,libbz2.so.1.0 -o libbz2.so.1.0.8 blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+gcc -m32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -o bzip2-shared bzip2.c libbz2.so.1.0.8
+rm -f libbz2.so.1.0
+ln -s libbz2.so.1.0.8 libbz2.so.1.0
+rm -f libbz2.a
+ar cq libbz2.a blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+ranlib libbz2.a
+rm -f *.o libbz2.a bzip2 bzip2recover \
+sample1.rb2 sample2.rb2 sample3.rb2 \
+sample1.tst sample2.tst sample3.tst
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c blocksort.c
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c huffman.c
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c crctable.c
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c randtable.c
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c compress.c
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c decompress.c
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -c bzlib.c
+gcc -mx32 -shared -Wl,-soname -Wl,libbz2.so.1.0 -o libbz2.so.1.0.8 blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+gcc -mx32 -fpic -fPIC -Wall -Winline -O2 -g -D_FILE_OFFSET_BITS=64 -o bzip2-shared bzip2.c libbz2.so.1.0.8
+rm -f libbz2.so.1.0
+ln -s libbz2.so.1.0.8 libbz2.so.1.0
+rm -f libbz2.a
+ar cq libbz2.a blocksort.o huffman.o crctable.o randtable.o compress.o decompress.o bzlib.o
+ranlib libbz2.a
